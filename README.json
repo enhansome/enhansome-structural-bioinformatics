@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Deep Learning Protein Folding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":floppy_disk: Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-17T13:51:27Z",
+            "owner": "google-deepmind",
+            "repo": "deepmind-research",
+            "stars": 15149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":floppy_disk: Code",
+          "description": "Prospr - Open Source Implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-06T16:44:44Z",
+            "owner": "dellacortelab",
+            "repo": "prospr",
+            "stars": 415
+          }
+        }
+      ],
+      "title": "AlphaFold 13"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MiniFold - Open Source toy example of AlphaFold 13 algorithm"
+    },
+    {
+      "description": "💻 Github\n:book: Paper\n:vhs: YouTube",
+      "items": [],
+      "title": "PDNet"
+    },
+    {
+      "description": "One of the first appearances of Molecular Docking is said to have been this 1982 paper.\nThey tell us Molecular Docking = \"To position two molecules so that they interact favorably with one another...\"\nHow???\nWhat is the result of this Docking?",
+      "items": [],
+      "title": "A Geometric Approach to MacroMolecule Ligand Interactions"
+    },
+    {
+      "description": "CATH/Gene3D - 151 Million Protein Domains Classified into 5,481 Superfamilies\nNCBI Conserved Domains Database - resource for the annotation of functional units in proteins\nProtein Data Bank\nScop 2 - Structural Classification of Proteins\nUniProt - comprehensive, high-quality and freely accessible resource of protein sequence and functional information.\nFold@Home",
+      "items": [],
+      "title": "Protein Data Sources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fusion Proteins"
+    },
+    {
+      "description": "ChimPipe - ChimPipe is a computational method for the detection of novel transcription-induced chimeric transcripts and fusion genes from Illumina Paired-End RNA-seq data. It combines junction spanning and paired-end read information to accurately detect chimeric splice junctions at base-pair resolution.\nDeepNF - Deep network fusion for protein function prediction | 📖 paper\nDeepPrior - predicts the probability of a gene fusion being a driver of an oncogenic process by directly exploiting the amino acid sequence of the fused protein, and it can prioritize gene fusions from different tumors. Unlike state-of-the-art tools, it also supports easy retraining and re-adaptation of the model | 📖 paper\nDeFuse - gene fusion discovery using RNA-Seq data. The software uses clusters of discordant paired end alignments to inform a split read alignment analysis for finding fusion boundaries | 📖 paper\nFusionCatcher - Finder of somatic fusion-genes in RNA-seq data\nJaffa - JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions\nStarFusion | 📖 paper",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "The 5th Annual Fusion Protein Therapeutics Conference\nFusion Oncoproteins in Childhood Cancers (FusOnC2) Consortium",
+      "items": [],
+      "title": "Groups"
+    },
+    {
+      "description": "Human genome = 20K+ genes 👖 each responsible for the instructions of building a single protein; encoded within 6 feet of DNA.\nDNA 🧬 is the 'instruction manual of life' (thankfully not written by Ikea 🪑 )\nLife is encoded in digital form G/C || T/A nucleotide base pairs.\nDNA is encoded ('transcribed) into mRNA and then decoded ('translated) into Proteins. Along the way alot of good and bad stuff happens in the latent space.\nTo make the DNA -> RNA transcribing happen - RNA takes a DNA strands - the template strand that runs from 3' to 5' (prime) - and it is uses to form single stranded RNA with all T's replaced by U's. (Thymine replaced by Uracil). The RNA now runs 5' to 3' prime and is identical to the non-template strand DNA sequence (the coding strand), except again Thymine is replaced by Uracil.\nFrom the template strand -> RNA strand transcription, translation happens when RNA is turned into proteins via the reading of codons - three letter RNA sequences that encode into specific amino acids. The tranlation looks like this codon table:\n\nGenes come in Alleles, the variations of the gene (example gene = hair color, allele = red hair 👩‍🦰 || blonde hair 👱‍♂️)\nGenomics begins with the discoveries of Gregor Mendel\n",
+      "items": [],
+      "title": "Articles and References"
+    },
+    {
+      "description": "🍼 Genome in a Bottle - develop the technical infrastructure (reference standards, reference methods, and reference data) to enable translation of whole human genome sequencing to clinical practice and innovations in technologies.\nOnline Needleman-Wunsch Example || Example II || Great NW Colab",
+      "items": [],
+      "title": "Genomics Resources"
+    },
+    {
+      "description": "💭 Rosalind\n💭 Great Introduction to BioInformatics Course - ELB19F\n💭 Learn BioInformatics in the Browser - Sandbox Bio\n☁️ Biological Modeling - Free Online Course\n☁️ BioInformatic Algorithms Lecture Videos",
+      "items": [],
+      "title": "Genomics Learning Online"
+    },
+    {
+      "description": "(2021) Highly accurate protein structure prediction with AlphaFold\n(2021) Deep molecular dreaming: inverse machine learning for de-novo molecular design and interpretability with surjective representations\n(2021) JANUS: Parallel Tempered Genetic Algorithm Guided by Deep Neural Networks for Inverse Molecular Design --> :computer: code\n(2021) Transformer neural network for protein-specific de novo drug generation as a machine translation problem\n(2021) Using Gans With Adaptive Training Data to search for new molecules\n(2021) Quantum Generative Models for Small Molecule Drug Discovery --> :computer: QuantumGan code\n(2021) Machine learning designs non-hemolytic antimicrobial peptides\n(2021) Few-Shot Graph Learning for Molecular Property Prediction --> :computer: code\n(2021) Assigning Confidence To Molecular Property Prediction\n(2020) Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition\n(2020) A Turing Test For Molecular Generation\n(2020) Mol-CycleGAN: a generative model for molecular optimization --> :computer: code\n(2020) Protein Contact Map Denoising Using Generative Adversarial Networks --> :computer: ContactGAN code\n(2020) Hierarchical Generation of Molecular Graphs using Structural Motifs --> :computer: code\n(2020) Relevant Applications of Generative Adversarial Networks in Drug Design and Discovery: Molecular De Novo Design, Dimensionality Reduction, and De Novo Peptide and Protein Design\n(2020) Deep Learning for Prediction and Optimization of Fast-Flow Peptide Synthesis\n(2020) Curiosity in exploring chemical space: Intrinsic rewards for deep molecular reinforcement learning\n(2020) High-Throughput Docking Using Quantum Mechanical Scoring\n(2020) Deep Learning Methods in Protein Structure Prediction\n(2020) GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction --> :computer: code\n(2020) Revealing cytotoxic substructures in molecules using deep learning\n(2020) ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction\n(2019)From Machine Learning to Deep Learning: Advances in scoring functions for protein-ligand docking\n(2019) The Unreasonable Effectiveness of Convolutional Neural Networks in Population Genetic Inference, Molecular Biology and Evolution\n(2019) Deep Learning Enables Rapid Identification of Potent DDR1 Kinase Inhibitors --> :computer: GENTRL code\n(2019) Junction Tree Variational Autoencoder for Molecular Graph Generation --> :computer: Code\n(2019) SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery --> code --> :computer: code\n(2019) Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective --> :computer: code --> :computer: more code\n(2019) SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction\n(2019) eToxPred: a machine learning-based approach to estimate the toxicity of drug candidates --> :computer: eToxPred code\n(2018) Seq3Seq Fingerprint: Towards End-to-end Semi-supervised Deep Drug Discovery --> :computer: code\n(2018) Chemi-Net: A molecular graph convolutional network for accurate drug property prediction\n(2018) Machine Learning of Toxicological Big Data Enables Read-Across Structure Activity Relationships (RASAR) Outperforming Animal Test Reproducibility\n(2018) DeepFam: deep learning based alignment-free method for protein family modeling and prediction\n(2018) Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment\n(2018) (MOSES): A Benchmarking Platform for Molecular Generation Models --> :computer: code\n(2018) DeepSMILES: An adaptation of SMILES for use in machine-learning of chemical structures --> :computer: code\n(2017) Protein-Ligand Scoring with CNN\n(2017) Quantum-chemical insights from deep tensor neural networks\n(2016) Incorporating QM and solvation into docking for applications to GPCR targets\n(2014) MRFalign: Protein Homology Detection through Alignment of Markov Random Fields\n(2012) Molecular Docking: A powerful approach for structure-based drug discovery\n(2011) The structural basis for agonist and partial agonist action on a β(1)-adrenergic receptor\n(2011) Molecular Dynamics Simulations of Protein Dynamics and their relevance to drug discovery\n(2010) AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization and multithreading\n(2009) Amphipol-Assisted in Vitro Folding of G Protein-Coupled Receptors\n(2005) GPCR Folding and Maturation from The G Protein-Coupled Receptors Handbook\n(1996) Double-mutant cycles: a powerful tool for analyzing protein structure and function\n(1982) A Geometric Approach to MacroMolecule Ligand Interactions",
+      "items": [],
+      "title": "Protein/Small Molecule References"
+    },
+    {
+      "description": "(2021) Re-identification of individuals in genomic datasets using public face images\n(2021) Accurate, scalable cohort variant calls using DeepVariant and GLnexus\n(2021) Ten simple rules for conducting a mendelian randomization study\n(2021) Genetic determinants of blood-cell traits influence susceptibility to childhood acute lymphoblastic leukemia\n(2021) The use of negative control outcomes in Mendelian randomization to detect potential population stratification\n(2020) Secure large-scale genome-wide association studies using homomorphic encryption\n(2020) Optimized homomorphic encryption solution for secure genome-wide association studies\n(2020) Genetic drug target validation using Mendelian randomisation\n(2020) Guidelines for performing Mendelian randomization investigations\n(2020) Mendel’s laws, Mendelian randomization and causal inference in observational data: substantive and nomenclatural issues\n(2020) The use of Mendelian randomisation to identify causal cancer risk factors: promise and limitations\n(2020) A robust and efficient method for Mendelian randomization with hundreds of genetic variants\n(2019) Are drug targets with genetic support twice as likely to be approved? Revised estimates of the impact of genetic support for drug mechanisms on the probability of drug approval\n(2019) Learning Causal Biological Networks With the Principle of Mendelian Randomization\n(2019) Conducting a Reproducible Mendelian Randomization Analysis using the R analytic statistical environment\n(2018) A universal SNP and small-indel variant caller using deep neural networks\n(2018) Secure genome-wide association analysis using multiparty computation\n(2018) Minimap2: pairwise alignment for nucleotide sequences\n(2018) Reading Mendelian randomisation studies: a guide, glossary, and checklist for clinicians\n(2018) Evaluating the current state of Mendelian randomization studies: a protocol for a systematic review on methodological and clinical aspects using neurodegenerative disorders as outcome\n(2016) The sequence of sequencers: the history of sequencing dna\n(2015) Mendelian Randomization: New Applications in the Coming Age of Hypothesis-Free Causality\n(2014) MeRP: a high-throughput pipeline for Mendelian randomization analysis\n(2008) Mendelian randomization: Using genes as instruments for making causal inferences in epidemiology\n(2007) Capitalizing on Mendelian randomization to assess the effects of treatments\n(2004) Commentary: Mendelian randomization—an update on its use to evaluate allogeneic stem cell transplantation in leukaemia\n(2003) ‘Mendelian randomization’: can genetic epidemiology contribute to understanding environmental determinants of disease?",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polars",
+          "description": "everyone learns the hard way that Pandas doesn't cut it in the real world. Its like Arrow only Rusty.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:37:19Z",
+            "owner": "pola-rs",
+            "repo": "polars",
+            "stars": 39343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jax",
+          "description": "the future? of domain specific ML compiling?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:05:03Z",
+            "owner": "jax-ml",
+            "repo": "jax",
+            "stars": 36155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annoy",
+          "description": "the standard in production nearest neighbor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-29T14:08:37Z",
+            "owner": "spotify",
+            "repo": "annoy",
+            "stars": 14282
+          }
+        }
+      ],
+      "title": "Genomics References"
+    },
+    {
+      "description": "High Performance Computing (HPC) is often talked about as essential technology for the future and present of Bio/Chem Informatics. At its core HPC is now and forever really a special case of distributed computing.\nThough there have been projects like Fold@home it is highly likely that a lack of innovation in distributed informatics computing (and decentralization as well) will continue to hinder the progress of many grand challenges in this field.\nAlphaFold revealed not the solution to folding but instead how the real problem is modelling dynamic rather than static protein events and just how far there is left to go before the surface of the problem is even scratched. One on hand, we could wait potentially forever for Quantum Computers to prove themselves useful - or on the other the juice can be squeezed out of parrellel and distributed computing.\n(2022) Deep distributed computing to reconstruct extremely large lineage trees\n(2020) Bioinformatics Application with Kubeflow for Batch Processing in Clouds - together, Docker and Kubernetes become universal platforms for Infrastructure-as-a-Service (IaaS) for Bioinformatics pipelines and other workloads. Most of Bioinformatics pipelines assume local access to POSIX-like file systems for simplicity.\n(1996) RFC 1958 Architectural Principles of the Internet",
+      "items": [],
+      "title": "Distributed Computing in Informatics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Distributed Cloud"
+    },
+    {
+      "description": "Chemisty 2E - :atom: Equivalent to 201 & 202 Level Chemistry Book\nChemistry: Atoms First 2E :atom: Fork of 2E but not with more Atoms!!!!\nBiology 2E 👽 Like Chemistry 2E but Biology\nArtificial Intelligence: A Modern Approach 🤖 The Gospel of Machine Learning\nNeural Networks and Deep Learning 🤖 Michael Nielsen writes another masterpiece - About Deep Learning - if you are into that sort of thing.\nReinforcement Learning 🤖 The only book you need on the subject\nPattern Recognition and Machine Learning 🤖 Another classic banger",
+      "items": [],
+      "title": "Other Free Books You Should Read Instead of This Repo"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:03.244Z",
+    "original_repository": "twoXes/awesome-structural-bioinformatics",
+    "original_repository_sha": "2a064e14a1672554070c477eaa4e2c706aa08355",
+    "enhanced_repository": "enhansome/enhansome-structural-bioinformatics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Structural BioInformatics with stars"
+  }
+}
