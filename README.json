@@ -19,7 +19,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15154
+            "stars": 15157
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-14T14:54:56Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39364
+            "stars": 39365
           }
         },
         {
@@ -119,10 +119,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:43:43Z",
+            "last_commit": "2026-08-17T02:41:25Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36163
+            "stars": 36165
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2025-10-29T14:08:37Z",
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14287
+            "stars": 14289
           }
         }
       ],
@@ -159,7 +159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:44:09.353Z",
+    "last_updated": "2026-08-17T04:52:25.458Z",
     "original_repository": "twoXes/awesome-structural-bioinformatics",
     "original_repository_sha": "2a064e14a1672554070c477eaa4e2c706aa08355",
     "enhanced_repository": "enhansome/enhansome-structural-bioinformatics",
