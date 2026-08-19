@@ -298,7 +298,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 * [gBWT in Rust](https://github.com/jltsiren/gbwt-rs) ⭐ 46 | 🐛 1 | 🌐 Rust | 📅 2026-08-12
 
-[VG](https://github.com/vgteam/vg) ⭐ 1,332 | 🐛 399 | 🌐 C++ | 📅 2026-08-19 - tools for working with genome variation graphs
+[VG](https://github.com/vgteam/vg) ⭐ 1,332 | 🐛 400 | 🌐 C++ | 📅 2026-08-19 - tools for working with genome variation graphs
 
 [Cello](https://github.com/CIDARLAB/Cello-v2) ⭐ 74 | 🐛 33 | 🌐 Java | 📅 2022-05-16 - Genetic Circuit Design
 
@@ -481,9 +481,9 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 # Important Technology in the Future of Structural BioInformatics
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 39,384 | 🐛 2,859 | 🌐 Rust | 📅 2026-08-18 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,028 | 🐛 2,574 | 🌐 C++ | 📅 2026-08-18 only Rusty.
-* [Jax](https://github.com/google/jax) ⭐ 36,174 | 🐛 2,588 | 🌐 Python | 📅 2026-08-19 - the future? of domain specific ML compiling?
-* [Annoy](https://github.com/spotify/annoy) ⭐ 14,290 | 🐛 84 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
+* [Polars](https://github.com/pola-rs/polars) ⭐ 39,390 | 🐛 2,861 | 🌐 Rust | 📅 2026-08-19 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,031 | 🐛 2,572 | 🌐 C++ | 📅 2026-08-18 only Rusty.
+* [Jax](https://github.com/google/jax) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19 - the future? of domain specific ML compiling?
+* [Annoy](https://github.com/spotify/annoy) ⭐ 14,289 | 🐛 84 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
 * [gRPC](https://grpc.io/) - connect your devices binary like
 * [Kubernetes](https://kubernetes.io/) - make all your informatics container orchestration declarative
 * [ONNX](https://onnx.ai/) - make all your models interoperable
@@ -539,7 +539,7 @@ def softmax_cross_entropy(logits, labels):
   
 ```
 
-If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,174 | 🐛 2,588 | 🌐 Python | 📅 2026-08-19 AF2's implemenation would not mean much to you.
+If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19 AF2's implemenation would not mean much to you.
 
 So going down the rabbit hole in Jax's nn we have the softmax function:
 
@@ -560,7 +560,7 @@ and an array is returned.
 
 Inside this function we go further down the lane to:
 
-* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,174 | 🐛 2,588 | 🌐 Python | 📅 2026-08-19 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
+* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
   gradients during forward or reverse-mode automatic differentiation.
 
 ```python
@@ -574,7 +574,7 @@ def stop_gradient(x):
   return tree_map(stop, x)
 ```
 
-This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,174 | 🐛 2,588 | 🌐 Python | 📅 2026-08-19
+This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19
 
 ```python
 def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
@@ -603,7 +603,7 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 [Biology 2E](https://openstax.org/details/books/biology-2e) 👽 Like Chemistry 2E but Biology
 
-[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,794 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-30 🤖 The Gospel of Machine Learning
+[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,795 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-30 🤖 The Gospel of Machine Learning
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 🤖 Michael Nielsen writes another masterpiece - About Deep Learning - if you are into that sort of thing.
 
