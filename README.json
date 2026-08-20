@@ -21,7 +21,7 @@
                         "last_commit": "2026-06-17T13:51:27Z",
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15157
+                        "stars": 15159
                       }
                     },
                     {
@@ -55,7 +55,7 @@
                     "last_commit": "2021-03-25T22:32:04Z",
                     "owner": "hypnopump",
                     "repo": "MiniFold",
-                    "stars": 220
+                    "stars": 219
                   },
                   "title": "MiniFold - Open Source toy example of AlphaFold 13 algorithm"
                 }
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-19T10:30:48Z",
+            "last_commit": "2026-08-19T18:57:56Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39390
+            "stars": 39400
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-19T10:12:11Z",
+            "last_commit": "2026-08-20T04:02:41Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36178
+            "stars": 36180
           }
         },
         {
@@ -125,7 +125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:44.195Z",
+    "last_updated": "2026-08-20T04:46:11.210Z",
     "original_repository": "twoXes/awesome-structural-bioinformatics",
     "original_repository_id": 350080649,
     "original_repository_sha": "2a064e14a1672554070c477eaa4e2c706aa08355",

@@ -40,7 +40,7 @@ The protein folding problem consists of three closely related puzzles:
 
 #### [AlphaFold 14](https://www.predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf)
 
-* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,790 | 🐛 306 | 🌐 Python | 📅 2026-04-22
+* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,792 | 🐛 306 | 🌐 Python | 📅 2026-04-22
 * [:book: Paper 2](https://www.nature.com/articles/s41586-021-03819-2_reference.pdf)
 * [:book: Paper](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D)
 * [:newspaper: article](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
@@ -52,12 +52,12 @@ The protein folding problem consists of three closely related puzzles:
 
 #### [AlphaFold 13](https://www.predictioncenter.org/CASP13/doc/presentations/Pred_CASP13-Structure-AlphaFold-Jumper.pdf)
 
-* [:floppy\_disk: Code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) ⭐ 15,157 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17
+* [:floppy\_disk: Code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) ⭐ 15,159 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17
 * [:floppy\_disk: Code](https://github.com/dellacortelab/prospr) ⭐ 415 | 🐛 14 | 🌐 Python | 📅 2022-10-06 - Prospr - Open Source Implementation
 * [:book: Prospr Paper](https://www.biorxiv.org/content/10.1101/830273v1)
 * [AlphaFold @ Casp13: What Just Happened?](https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/)
 
-#### [MiniFold](https://github.com/hypnopump/MiniFold) ⭐ 220 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2021-03-25 - Open Source toy example of AlphaFold 13 algorithm
+#### [MiniFold](https://github.com/hypnopump/MiniFold) ⭐ 219 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2021-03-25 - Open Source toy example of AlphaFold 13 algorithm
 
 > The DeepMind work presented @ CASP was not a technological breakthrough (they did not invent any new type of AI) but an engineering one: they applied well-known AI algorithms to a problem along with lots of data and computing power and found a great solution through model design, feature engineering, model ensembling and so on...
 
@@ -294,11 +294,11 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 [Minimap2](https://github.com/lh3/minimap2) ⭐ 2,237 | 🐛 74 | 🌐 C | 📅 2026-05-19  - sequence alignment program that aligns DNA or mRNA sequences against a large reference database. For >100bp Illumina short reads, minimap2 is three times as fast as BWA-MEM and Bowtie2, and as accurate on simulated data. | [paper](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778)
 
-[gBWT](https://github.com/jltsiren/gbwt) ⭐ 62 | 🐛 2 | 🌐 C++ | 📅 2026-08-15 -  graph extension (gPBWT) of the positional Burrows-Wheeler transform (PBWT)
+[gBWT](https://github.com/jltsiren/gbwt) ⭐ 62 | 🐛 2 | 🌐 C++ | 📅 2026-08-19 -  graph extension (gPBWT) of the positional Burrows-Wheeler transform (PBWT)
 
 * [gBWT in Rust](https://github.com/jltsiren/gbwt-rs) ⭐ 46 | 🐛 1 | 🌐 Rust | 📅 2026-08-12
 
-[VG](https://github.com/vgteam/vg) ⭐ 1,332 | 🐛 400 | 🌐 C++ | 📅 2026-08-19 - tools for working with genome variation graphs
+[VG](https://github.com/vgteam/vg) ⭐ 1,333 | 🐛 400 | 🌐 C++ | 📅 2026-08-19 - tools for working with genome variation graphs
 
 [Cello](https://github.com/CIDARLAB/Cello-v2) ⭐ 74 | 🐛 33 | 🌐 Java | 📅 2022-05-16 - Genetic Circuit Design
 
@@ -394,7 +394,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 (2018) [Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment](https://doi.org/10.1186/s13015-018-0123-6)
 
-(2018) [(MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823) --> :computer: [code](https://github.com/molecularsets/moses) ⭐ 988 | 🐛 31 | 🌐 Python | 📅 2024-07-08
+(2018) [(MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823) --> :computer: [code](https://github.com/molecularsets/moses) ⭐ 987 | 🐛 31 | 🌐 Python | 📅 2024-07-08
 
 (2018) [DeepSMILES: An adaptation of SMILES for use in machine-learning of chemical structures](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c73ed6567dfe7e5fec388d/original/deep-smiles-an-adaptation-of-smiles-for-use-in-machine-learning-of-chemical-structures.pdf) --> :computer: [code](https://github.com/baoilleach/deepsmiles) ⭐ 146 | 🐛 6 | 🌐 Python | 📅 2021-05-24
 
@@ -481,8 +481,8 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 # Important Technology in the Future of Structural BioInformatics
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 39,390 | 🐛 2,861 | 🌐 Rust | 📅 2026-08-19 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,031 | 🐛 2,572 | 🌐 C++ | 📅 2026-08-18 only Rusty.
-* [Jax](https://github.com/google/jax) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19 - the future? of domain specific ML compiling?
+* [Polars](https://github.com/pola-rs/polars) ⭐ 39,400 | 🐛 2,852 | 🌐 Rust | 📅 2026-08-19 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,033 | 🐛 2,570 | 🌐 C++ | 📅 2026-08-19 only Rusty.
+* [Jax](https://github.com/google/jax) ⭐ 36,180 | 🐛 2,591 | 🌐 Python | 📅 2026-08-20 - the future? of domain specific ML compiling?
 * [Annoy](https://github.com/spotify/annoy) ⭐ 14,289 | 🐛 84 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
 * [gRPC](https://grpc.io/) - connect your devices binary like
 * [Kubernetes](https://kubernetes.io/) - make all your informatics container orchestration declarative
@@ -539,7 +539,7 @@ def softmax_cross_entropy(logits, labels):
   
 ```
 
-If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19 AF2's implemenation would not mean much to you.
+If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,180 | 🐛 2,591 | 🌐 Python | 📅 2026-08-20 AF2's implemenation would not mean much to you.
 
 So going down the rabbit hole in Jax's nn we have the softmax function:
 
@@ -560,7 +560,7 @@ and an array is returned.
 
 Inside this function we go further down the lane to:
 
-* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
+* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,180 | 🐛 2,591 | 🌐 Python | 📅 2026-08-20 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
   gradients during forward or reverse-mode automatic differentiation.
 
 ```python
@@ -574,7 +574,7 @@ def stop_gradient(x):
   return tree_map(stop, x)
 ```
 
-This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,178 | 🐛 2,587 | 🌐 Python | 📅 2026-08-19
+This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,180 | 🐛 2,591 | 🌐 Python | 📅 2026-08-20
 
 ```python
 def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
@@ -593,7 +593,7 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 [Gans in Jax](https://github.com/lweitkamp/GANs-JAX) ⭐ 34 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-29
 
-[Jax MD](https://github.com/google/jax-md) ⭐ 1,454 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-08-18
+[Jax MD](https://github.com/google/jax-md) ⭐ 1,454 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2026-08-18
 
 ## Other Free Books You Should Read Instead of This Repo
 
@@ -613,4 +613,4 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
