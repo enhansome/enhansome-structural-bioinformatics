@@ -4,9 +4,67 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Proteins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350080649,
+            "language": "Python",
+            "last_commit": "2023-05-05T09:42:17Z",
+            "owner": "twoXes",
+            "repo": "awesome-structural-bioinformatics",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Genomics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350080649,
+            "language": "Python",
+            "last_commit": "2023-05-05T09:42:17Z",
+            "owner": "twoXes",
+            "repo": "awesome-structural-bioinformatics",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": ":computer: Code",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 377851948,
+                        "language": "Python",
+                        "last_commit": "2026-04-22T17:58:21Z",
+                        "owner": "google-deepmind",
+                        "repo": "alphafold",
+                        "stars": 14806
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "AlphaFold 14"
+                },
                 {
                   "children": [
                     {
@@ -21,7 +79,7 @@
                         "last_commit": "2026-06-17T13:51:27Z",
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15165
+                        "stars": 15166
                       }
                     },
                     {
@@ -58,6 +116,28 @@
                     "stars": 219
                   },
                   "title": "MiniFold - Open Source toy example of AlphaFold 13 algorithm"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "💻 Github",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 258874128,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2021-05-30T06:33:06Z",
+                        "owner": "ba-lab",
+                        "repo": "pdnet",
+                        "stars": 36
+                      }
+                    }
+                  ],
+                  "description": "As deep learning algorithms drive the progress in protein structure prediction, a lot remains to be studied at this merging superhighway of deep learning and protein structure prediction. Recent findings show that inter-residue distance prediction, a more granular version of the well-known contact prediction problem, is a key to predicting accurate models. However, deep learning methods that predict these distances are still in the early stages of their development. To advance these methods and develop other novel methods, a need exists for a small and representative dataset packaged for faster development and testing. In this work, we introduce protein distance net (PDNET), a framework that consists of one such representative dataset along with the scripts for training and testing deep learning methods. The framework also includes all the scripts that were used to curate the dataset, and generate the input features and distance maps.\n:book: Paper\n:vhs: YouTube",
+                  "node_type": "group",
+                  "title": "PDNet"
                 }
               ],
               "description": null,
@@ -68,9 +148,491 @@
           "description": "Structure-function relationships are the fundamental object of knowledge in protein chemistry; they allow us to rationally design drugs, engineer proteins with new functions, and understand why mutations cause disease. - On The Origin of Proteins\nThere is now a testable explanation for how a protein can fold so quickly: A protein solves its large global optimization problem as a series of smaller local optimization problems, growing and assembling the native structure from peptide fragments, local structures first. - The Protein Folding Problem\nThe protein folding problem consists of three closely related puzzles:",
           "node_type": "group",
           "title": "Protein Folding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoDock GPU",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191935321,
+                "language": "C++",
+                "last_commit": "2026-08-11T19:00:24Z",
+                "owner": "ccsb-scripps",
+                "repo": "AutoDock-GPU",
+                "stars": 607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gnina",
+              "description": "deep learning framework for molecular docking -inside deepchem (/dock/pose_generation.py)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45548146,
+                "language": "C++",
+                "last_commit": "2026-06-29T14:46:52Z",
+                "owner": "gnina",
+                "repo": "gnina",
+                "stars": 964
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smina",
+              "description": "used for minimization (local_only) as opposed to of docking, makes Vina much easer to use and 10-20x faster. Docking performance is about the same since partial charge calculation and file i/o isn't such a big part of the performance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13803858,
+                "language": "C++",
+                "last_commit": "2018-11-18T15:24:36Z",
+                "owner": "mwojcikowski",
+                "repo": "smina",
+                "stars": 148
+              }
+            }
+          ],
+          "description": "Tools for exploring how two or more molecular structures fit together\nAutoDock - suite of automated docking tools designed to predict how small molecules bind to a receptor of known 3D structure\nAutoDock Vina - significantly improves the average accuracy of the binding mode predictions compared to AutoDock\nGOMoDo - GPCR online modeling and docking server\n\"Docking is a method which predicts the prefered orientation of one molecule to a second when bound to each other to form a stable complex. Knoweldge of the prefered orientation in turn may be used to predict the strength of association or binding affinity between two molecules using scoring functions.\"\nIn the early 1990s many approved HIV protease inhibitors were developed to target HIV infections using structure-based molecular docking. source",
+          "node_type": "group",
+          "title": "Protein - Ligand Docking"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ChimPipe",
+                  "description": "ChimPipe is a computational method for the detection of novel transcription-induced chimeric transcripts and fusion genes from Illumina Paired-End RNA-seq data. It combines junction spanning and paired-end read information to accurately detect chimeric splice junctions at base-pair resolution.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20726684,
+                    "language": "Awk",
+                    "last_commit": "2026-01-22T15:35:46Z",
+                    "owner": "Chimera-tools",
+                    "repo": "ChimPipe",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepNF",
+                  "description": "Deep network fusion for protein function prediction | 📖 paper",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112264006,
+                    "language": "Python",
+                    "last_commit": "2020-05-04T05:09:56Z",
+                    "owner": "VGligorijevic",
+                    "repo": "deepNF",
+                    "stars": 32
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepPrior",
+                  "description": "predicts the probability of a gene fusion being a driver of an oncogenic process by directly exploiting the amino acid sequence of the fused protein, and it can prioritize gene fusions from different tumors. Unlike state-of-the-art tools, it also supports easy retraining and re-adaptation of the model | 📖 paper",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 211113531,
+                    "language": "Python",
+                    "last_commit": "2023-05-22T22:39:18Z",
+                    "owner": "bioinformatics-polito",
+                    "repo": "DEEPrior",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeFuse",
+                  "description": "gene fusion discovery using RNA-Seq data. The software uses clusters of discordant paired end alignments to inform a split read alignment analysis for finding fusion boundaries | 📖 paper",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103217970,
+                    "language": "C++",
+                    "last_commit": "2021-02-15T10:02:29Z",
+                    "owner": "amcpherson",
+                    "repo": "defuse",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FusionCatcher",
+                  "description": "Finder of somatic fusion-genes in RNA-seq data",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27377213,
+                    "language": "Python",
+                    "last_commit": "2026-04-16T10:43:38Z",
+                    "owner": "ndaniel",
+                    "repo": "fusioncatcher",
+                    "stars": 152
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Jaffa",
+                  "description": "JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34100352,
+                    "language": "C++",
+                    "last_commit": "2026-08-08T00:15:08Z",
+                    "owner": "Oshlack",
+                    "repo": "JAFFA",
+                    "stars": 117
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "StarFusion",
+                  "description": "📖 paper",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33864820,
+                    "language": "Perl",
+                    "last_commit": "2026-04-18T15:24:48Z",
+                    "owner": "STAR-Fusion",
+                    "repo": "STAR-Fusion",
+                    "stars": 254
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Software"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fusion Proteins"
         }
       ],
       "title": "Proteomics"
+    },
+    {
+      "description": "Human genome = 20K+ genes 👖 each responsible for the instructions of building a single protein; encoded within 6 feet of DNA.\nDNA 🧬 is the 'instruction manual of life' (thankfully not written by Ikea 🪑 )\nLife is encoded in digital form G/C || T/A nucleotide base pairs.\nDNA is encoded ('transcribed) into mRNA and then decoded ('translated) into Proteins. Along the way alot of good and bad stuff happens in the latent space.\nTo make the DNA -> RNA transcribing happen - RNA takes a DNA strands - the template strand that runs from 3' to 5' (prime) - and it is uses to form single stranded RNA with all T's replaced by U's. (Thymine replaced by Uracil). The RNA now runs 5' to 3' prime and is identical to the non-template strand DNA sequence (the coding strand), except again Thymine is replaced by Uracil.\nFrom the template strand -> RNA strand transcription, translation happens when RNA is turned into proteins via the reading of codons - three letter RNA sequences that encode into specific amino acids. The tranlation looks like this codon table:\nGenes come in Alleles, the variations of the gene (example gene = hair color, allele = red hair 👩‍🦰 || blonde hair 👱‍♂️)\nGeneomics is the study of all genes in an organism to understand their molecular organization, function, interaction and evolutionary history.\nGenomics begins with the discoveries of Gregor Mendel",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep Variant",
+              "description": "analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111751293,
+                "language": "Python",
+                "last_commit": "2026-03-19T04:57:17Z",
+                "owner": "google",
+                "repo": "deepvariant",
+                "stars": 3787
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BioWasm",
+              "description": "WebAssembly modules for genomics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206987038,
+                "language": "HTML",
+                "last_commit": "2026-08-05T06:36:05Z",
+                "owner": "biowasm",
+                "repo": "biowasm",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastQ Bio",
+              "description": "An interactive web tool for quality control of DNA sequencing data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101131503,
+                "language": "Svelte",
+                "last_commit": "2024-08-30T21:14:04Z",
+                "owner": "robertaboukhalil",
+                "repo": "fastq.bio",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minimap2",
+              "description": "sequence alignment program that aligns DNA or mRNA sequences against a large reference database. For >100bp Illumina short reads, minimap2 is three times as fast as BWA-MEM and Bowtie2, and as accurate on simulated data. | paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97612481,
+                "language": "C",
+                "last_commit": "2026-05-19T22:40:40Z",
+                "owner": "lh3",
+                "repo": "minimap2",
+                "stars": 2240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gBWT",
+              "description": "graph extension (gPBWT) of the positional Burrows-Wheeler transform (PBWT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87944729,
+                "language": "C++",
+                "last_commit": "2026-08-19T17:31:52Z",
+                "owner": "jltsiren",
+                "repo": "gbwt",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gBWT in Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396515239,
+                "language": "Rust",
+                "last_commit": "2026-08-22T19:46:04Z",
+                "owner": "jltsiren",
+                "repo": "gbwt-rs",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VG",
+              "description": "tools for working with genome variation graphs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24727800,
+                "language": "C++",
+                "last_commit": "2026-08-24T01:11:01Z",
+                "owner": "vgteam",
+                "repo": "vg",
+                "stars": 1333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cello",
+              "description": "Genetic Circuit Design",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151477580,
+                "language": "Java",
+                "last_commit": "2022-05-16T18:28:24Z",
+                "owner": "CIDARLAB",
+                "repo": "Cello-v2",
+                "stars": 74
+              }
+            }
+          ],
+          "description": "NVIDIA Clara Parabricks Pipelines - perform secondary analysis of next generation sequencing (NGS) DNA and RNA data, blazing fast speeds and low cost. Can analyze whole human genomes in about 45 minutes. Includes Deep Variant.",
+          "node_type": "group",
+          "title": "Genomics Software"
+        }
+      ],
+      "title": "Genomics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(2021) JANUS: Parallel Tempered Genetic Algorithm Guided by Deep Neural Networks for Inverse Molecular Design",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391465326,
+                "language": "Python",
+                "last_commit": "2022-07-27T02:28:26Z",
+                "owner": "the-matter-lab",
+                "repo": "JANUS",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2021) Few-Shot Graph Learning for Molecular Property Prediction",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338992815,
+                "language": "Python",
+                "last_commit": "2023-02-20T03:23:55Z",
+                "owner": "zhichunguo",
+                "repo": "Meta-MGNN",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2020) Mol-CycleGAN: a generative model for molecular optimization",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168709536,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-02-06T14:30:24Z",
+                "owner": "ardigen",
+                "repo": "mol-cycle-gan",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2020) Hierarchical Generation of Molecular Graphs using Structural Motifs",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215888589,
+                "language": "Python",
+                "last_commit": "2022-06-28T13:55:04Z",
+                "owner": "wengong-jin",
+                "repo": "hgraph2graph",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2020) GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297783187,
+                "language": "Python",
+                "last_commit": "2021-02-10T04:07:29Z",
+                "owner": "zhichunguo",
+                "repo": "GraSeq",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2019) Junction Tree Variational Autoencoder for Molecular Graph Generation",
+              "description": "-> :computer: Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122777902,
+                "language": "Python",
+                "last_commit": "2022-12-01T17:36:05Z",
+                "owner": "wengong-jin",
+                "repo": "icml18-jtnn",
+                "stars": 565
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2019) SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery",
+              "description": "-> code --> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157965460,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-12-22T20:04:15Z",
+                "owner": "DSPsleeporg",
+                "repo": "smiles-transformer",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2019) Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective",
+              "description": "-> :computer: code --> :computer: more code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258124207,
+                "language": "Python",
+                "last_commit": "2023-11-01T19:32:07Z",
+                "owner": "awslabs",
+                "repo": "dgl-lifesci",
+                "stars": 809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2018) Seq3Seq Fingerprint: Towards End-to-end Semi-supervised Deep Drug Discovery",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150825490,
+                "language": "Python",
+                "last_commit": "2018-11-21T18:33:31Z",
+                "owner": "xysteve00",
+                "repo": "seq3seq-fingerprint-regression",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2018) (MOSES): A Benchmarking Platform for Molecular Generation Models",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159494117,
+                "language": "Python",
+                "last_commit": "2024-07-08T06:36:49Z",
+                "owner": "molecularsets",
+                "repo": "moses",
+                "stars": 987
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(2018) DeepSMILES: An adaptation of SMILES for use in machine-learning of chemical structures",
+              "description": "-> :computer: code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149261468,
+                "language": "Python",
+                "last_commit": "2021-05-24T08:07:54Z",
+                "owner": "baoilleach",
+                "repo": "deepsmiles",
+                "stars": 146
+              }
+            }
+          ],
+          "description": "(2021) Highly accurate protein structure prediction with AlphaFold\n(2021) Deep molecular dreaming: inverse machine learning for de-novo molecular design and interpretability with surjective representations\n(2021) Transformer neural network for protein-specific de novo drug generation as a machine translation problem\n(2021) Using Gans With Adaptive Training Data to search for new molecules\n(2021) Quantum Generative Models for Small Molecule Drug Discovery --> :computer: QuantumGan code\n(2021) Machine learning designs non-hemolytic antimicrobial peptides\n(2021) Assigning Confidence To Molecular Property Prediction\n(2020) Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition\n(2020) A Turing Test For Molecular Generation\n(2020) Protein Contact Map Denoising Using Generative Adversarial Networks --> :computer: ContactGAN code\n(2020) Relevant Applications of Generative Adversarial Networks in Drug Design and Discovery: Molecular De Novo Design, Dimensionality Reduction, and De Novo Peptide and Protein Design\n(2020) Deep Learning for Prediction and Optimization of Fast-Flow Peptide Synthesis\n(2020) Curiosity in exploring chemical space: Intrinsic rewards for deep molecular reinforcement learning\n(2020) High-Throughput Docking Using Quantum Mechanical Scoring\n(2020) Deep Learning Methods in Protein Structure Prediction\n(2020) Revealing cytotoxic substructures in molecules using deep learning\n(2020) ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction\n(2019)From Machine Learning to Deep Learning: Advances in scoring functions for protein-ligand docking\n(2019) The Unreasonable Effectiveness of Convolutional Neural Networks in Population Genetic Inference, Molecular Biology and Evolution\n(2019) Deep Learning Enables Rapid Identification of Potent DDR1 Kinase Inhibitors --> :computer: GENTRL code\n(2019) SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction\n(2019) eToxPred: a machine learning-based approach to estimate the toxicity of drug candidates --> :computer: eToxPred code\n(2018) Chemi-Net: A molecular graph convolutional network for accurate drug property prediction\n(2018) Machine Learning of Toxicological Big Data Enables Read-Across Structure Activity Relationships (RASAR) Outperforming Animal Test Reproducibility\n(2018) DeepFam: deep learning based alignment-free method for protein family modeling and prediction\n(2018) Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment\n(2017) Protein-Ligand Scoring with CNN\n(2017) Quantum-chemical insights from deep tensor neural networks\n(2016) Incorporating QM and solvation into docking for applications to GPCR targets\n(2014) MRFalign: Protein Homology Detection through Alignment of Markov Random Fields\n(2012) Molecular Docking: A powerful approach for structure-based drug discovery\n(2011) The structural basis for agonist and partial agonist action on a β(1)-adrenergic receptor\n(2011) Molecular Dynamics Simulations of Protein Dynamics and their relevance to drug discovery\n(2010) AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization and multithreading\n(2009) Amphipol-Assisted in Vitro Folding of G Protein-Coupled Receptors\n(2005) GPCR Folding and Maturation from The G Protein-Coupled Receptors Handbook\n(1996) Double-mutant cycles: a powerful tool for analyzing protein structure and function\n(1982) A Geometric Approach to MacroMolecule Ligand Interactions",
+          "node_type": "group",
+          "title": "Protein/Small Molecule References"
+        }
+      ],
+      "title": "Appendix"
     },
     {
       "description": null,
@@ -84,10 +646,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-24T04:55:01Z",
+            "last_commit": "2026-08-24T14:19:08Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39461
+            "stars": 39468
           }
         },
         {
@@ -99,10 +661,10 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-24T02:21:11Z",
+            "last_commit": "2026-08-24T14:28:35Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36207
+            "stars": 36209
           }
         },
         {
@@ -117,15 +679,89 @@
             "last_commit": "2025-10-29T14:08:37Z",
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14289
+            "stars": 14290
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jax",
+              "description": "is the identity function, that is, it returns argument unchanged. However, prevents the flow of gradients during forward or reverse-mode automatic differentiation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154739597,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:28:35Z",
+                "owner": "jax-ml",
+                "repo": "jax",
+                "stars": 36209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gans in Jax",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356635875,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-04-29T23:57:34Z",
+                "owner": "lweitkamp",
+                "repo": "GANs-JAX",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jax MD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186495365,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-18T12:17:06Z",
+                "owner": "jax-md",
+                "repo": "jax-md",
+                "stars": 1457
+              }
+            }
+          ],
+          "description": "AlphaFold2 is Google's state of the art protein structure prediction model.\nAF2 predicts 3D coordinates of all atoms of a protein, using the amino acid sequence and aligned sequences homology.\nIf you didn't know jax's nn.logsoftmax AF2's implemenation would not mean much to you.\nSo going down the rabbit hole in Jax's nn we have the softmax function:\n(The function, rescales elements to the range )\nThe accepted arguments are:\nand an array is returned.\nInside this function we go further down the lane to:\nThis in turn relies upon\nAutomatic Differentiation Lecture Slides",
+          "node_type": "group",
+          "title": "Brief Explanation of AlphaFold Jax Architecture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Artificial Intelligence: A Modern Approach",
+              "description": "🤖 The Gospel of Machine Learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50881110,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-30T13:24:50Z",
+                "owner": "aimacode",
+                "repo": "aima-python",
+                "stars": 8798
+              }
+            }
+          ],
+          "description": "Chemisty 2E - :atom: Equivalent to 201 & 202 Level Chemistry Book\nChemistry: Atoms First 2E :atom: Fork of 2E but not with more Atoms!!!!\nBiology 2E 👽 Like Chemistry 2E but Biology\nNeural Networks and Deep Learning 🤖 Michael Nielsen writes another masterpiece - About Deep Learning - if you are into that sort of thing.\nReinforcement Learning 🤖 The only book you need on the subject\nPattern Recognition and Machine Learning 🤖 Another classic banger",
+          "node_type": "group",
+          "title": "Other Free Books You Should Read Instead of This Repo"
         }
       ],
       "title": "Important Technology in the Future of Structural BioInformatics"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:55:10.153Z",
+    "last_updated": "2026-08-24T14:42:58.907Z",
     "original_repository": "twoXes/awesome-structural-bioinformatics",
     "original_repository_id": 350080649,
     "original_repository_sha": "2a064e14a1672554070c477eaa4e2c706aa08355",
