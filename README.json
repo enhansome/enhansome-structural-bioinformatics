@@ -646,10 +646,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:37:44Z",
+            "last_commit": "2026-08-25T06:35:21Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39478
+            "stars": 39479
           }
         },
         {
@@ -661,10 +661,10 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-25T03:55:37Z",
+            "last_commit": "2026-08-25T05:33:32Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36211
+            "stars": 36212
           }
         },
         {
@@ -693,10 +693,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:55:37Z",
+                "last_commit": "2026-08-25T05:33:32Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36211
+                "stars": 36212
               }
             },
             {
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:47:59.523Z",
+    "last_updated": "2026-08-25T06:36:03.659Z",
     "original_repository": "twoXes/awesome-structural-bioinformatics",
     "original_repository_id": 350080649,
     "original_repository_sha": "2a064e14a1672554070c477eaa4e2c706aa08355",
