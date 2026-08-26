@@ -57,7 +57,7 @@
                         "last_commit": "2026-04-22T17:58:21Z",
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14807
+                        "stars": 14809
                       }
                     }
                   ],
@@ -163,7 +163,7 @@
                 "last_commit": "2026-08-11T19:00:24Z",
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 607
+                "stars": 608
               }
             },
             {
@@ -289,7 +289,7 @@
                     "archived": false,
                     "id": 34100352,
                     "language": "C++",
-                    "last_commit": "2026-08-08T00:15:08Z",
+                    "last_commit": "2026-08-25T22:25:14Z",
                     "owner": "Oshlack",
                     "repo": "JAFFA",
                     "stars": 117
@@ -340,7 +340,7 @@
                 "last_commit": "2026-03-19T04:57:17Z",
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3787
+                "stars": 3789
               }
             },
             {
@@ -427,7 +427,7 @@
                 "archived": false,
                 "id": 24727800,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:30:47Z",
+                "last_commit": "2026-08-25T23:35:25Z",
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1333
@@ -646,10 +646,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-25T06:35:21Z",
+            "last_commit": "2026-08-25T14:16:04Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39479
+            "stars": 39490
           }
         },
         {
@@ -661,10 +661,10 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-25T05:33:32Z",
+            "last_commit": "2026-08-26T03:03:34Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36212
+            "stars": 36216
           }
         },
         {
@@ -679,7 +679,7 @@
             "last_commit": "2025-10-29T14:08:37Z",
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14290
+            "stars": 14289
           }
         },
         {
@@ -693,10 +693,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:33:32Z",
+                "last_commit": "2026-08-26T03:03:34Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36212
+                "stars": 36216
               }
             },
             {
@@ -726,7 +726,7 @@
                 "last_commit": "2026-08-18T12:17:06Z",
                 "owner": "jax-md",
                 "repo": "jax-md",
-                "stars": 1457
+                "stars": 1458
               }
             }
           ],
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:03.659Z",
+    "last_updated": "2026-08-26T04:49:17.977Z",
     "original_repository": "twoXes/awesome-structural-bioinformatics",
     "original_repository_id": 350080649,
     "original_repository_sha": "2a064e14a1672554070c477eaa4e2c706aa08355",
