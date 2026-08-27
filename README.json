@@ -57,7 +57,7 @@
                         "last_commit": "2026-04-22T17:58:21Z",
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14809
+                        "stars": 14812
                       }
                     }
                   ],
@@ -79,7 +79,7 @@
                         "last_commit": "2026-06-17T13:51:27Z",
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15167
+                        "stars": 15170
                       }
                     },
                     {
@@ -178,7 +178,7 @@
                 "last_commit": "2026-06-29T14:46:52Z",
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 964
+                "stars": 965
               }
             },
             {
@@ -193,7 +193,7 @@
                 "last_commit": "2018-11-18T15:24:36Z",
                 "owner": "mwojcikowski",
                 "repo": "smina",
-                "stars": 148
+                "stars": 149
               }
             }
           ],
@@ -277,7 +277,7 @@
                     "last_commit": "2026-04-16T10:43:38Z",
                     "owner": "ndaniel",
                     "repo": "fusioncatcher",
-                    "stars": 152
+                    "stars": 154
                   }
                 },
                 {
@@ -340,7 +340,7 @@
                 "last_commit": "2026-03-19T04:57:17Z",
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3789
+                "stars": 3793
               }
             },
             {
@@ -385,7 +385,7 @@
                 "last_commit": "2026-05-19T22:40:40Z",
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2240
+                "stars": 2242
               }
             },
             {
@@ -427,7 +427,7 @@
                 "archived": false,
                 "id": 24727800,
                 "language": "C++",
-                "last_commit": "2026-08-25T23:35:25Z",
+                "last_commit": "2026-08-27T07:11:17Z",
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1333
@@ -646,10 +646,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-25T14:16:04Z",
+            "last_commit": "2026-08-27T11:51:28Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39490
+            "stars": 39512
           }
         },
         {
@@ -661,10 +661,10 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-26T03:03:34Z",
+            "last_commit": "2026-08-27T11:58:38Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36216
+            "stars": 36217
           }
         },
         {
@@ -693,10 +693,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-26T03:03:34Z",
+                "last_commit": "2026-08-27T11:58:38Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36216
+                "stars": 36217
               }
             },
             {
@@ -761,9 +761,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:49:17.977Z",
-    "original_repository": "twoXes/awesome-structural-bioinformatics",
-    "original_repository_id": 350080649,
+    "last_updated": "2026-08-27T12:07:16.551Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 350080649,
+      "language": "Python",
+      "last_commit": "2023-05-05T09:42:17Z",
+      "owner": "twoXes",
+      "repo": "awesome-structural-bioinformatics",
+      "stars": 81
+    },
     "original_repository_sha": "2a064e14a1672554070c477eaa4e2c706aa08355",
     "enhanced_repository": "enhansome/enhansome-structural-bioinformatics",
     "enhanced_repository_description": null,
