@@ -16,7 +16,8 @@
             "owner": "twoXes",
             "repo": "awesome-structural-bioinformatics",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:31:51.165Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "twoXes",
             "repo": "awesome-structural-bioinformatics",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:31:51.165Z"
         }
       ],
       "title": "Overview"
@@ -57,8 +59,9 @@
                         "last_commit": "2026-04-22T17:58:21Z",
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14812
-                      }
+                        "stars": 14814
+                      },
+                      "first_seen": "2026-08-28T16:31:51.165Z"
                     }
                   ],
                   "description": null,
@@ -80,7 +83,8 @@
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
                         "stars": 15170
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:31:51.165Z"
                     },
                     {
                       "node_type": "item",
@@ -95,7 +99,8 @@
                         "owner": "dellacortelab",
                         "repo": "prospr",
                         "stars": 415
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:31:51.165Z"
                     }
                   ],
                   "description": null,
@@ -115,7 +120,8 @@
                     "repo": "MiniFold",
                     "stars": 219
                   },
-                  "title": "MiniFold - Open Source toy example of AlphaFold 13 algorithm"
+                  "title": "MiniFold - Open Source toy example of AlphaFold 13 algorithm",
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 },
                 {
                   "children": [
@@ -132,7 +138,8 @@
                         "owner": "ba-lab",
                         "repo": "pdnet",
                         "stars": 36
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:31:51.165Z"
                     }
                   ],
                   "description": "As deep learning algorithms drive the progress in protein structure prediction, a lot remains to be studied at this merging superhighway of deep learning and protein structure prediction. Recent findings show that inter-residue distance prediction, a more granular version of the well-known contact prediction problem, is a key to predicting accurate models. However, deep learning methods that predict these distances are still in the early stages of their development. To advance these methods and develop other novel methods, a need exists for a small and representative dataset packaged for faster development and testing. In this work, we introduce protein distance net (PDNET), a framework that consists of one such representative dataset along with the scripts for training and testing deep learning methods. The framework also includes all the scripts that were used to curate the dataset, and generate the input features and distance maps.\n:book: Paper\n:vhs: YouTube",
@@ -163,8 +170,9 @@
                 "last_commit": "2026-08-11T19:00:24Z",
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 608
-              }
+                "stars": 610
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -178,8 +186,9 @@
                 "last_commit": "2026-06-29T14:46:52Z",
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 965
-              }
+                "stars": 966
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -194,7 +203,8 @@
                 "owner": "mwojcikowski",
                 "repo": "smina",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             }
           ],
           "description": "Tools for exploring how two or more molecular structures fit together\nAutoDock - suite of automated docking tools designed to predict how small molecules bind to a receptor of known 3D structure\nAutoDock Vina - significantly improves the average accuracy of the binding mode predictions compared to AutoDock\nGOMoDo - GPCR online modeling and docking server\n\"Docking is a method which predicts the prefered orientation of one molecule to a second when bound to each other to form a stable complex. Knoweldge of the prefered orientation in turn may be used to predict the strength of association or binding affinity between two molecules using scoring functions.\"\nIn the early 1990s many approved HIV protease inhibitors were developed to target HIV infections using structure-based molecular docking. source",
@@ -218,7 +228,8 @@
                     "owner": "Chimera-tools",
                     "repo": "ChimPipe",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 },
                 {
                   "node_type": "item",
@@ -233,7 +244,8 @@
                     "owner": "VGligorijevic",
                     "repo": "deepNF",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 },
                 {
                   "node_type": "item",
@@ -248,7 +260,8 @@
                     "owner": "bioinformatics-polito",
                     "repo": "DEEPrior",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 },
                 {
                   "node_type": "item",
@@ -263,7 +276,8 @@
                     "owner": "amcpherson",
                     "repo": "defuse",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 },
                 {
                   "node_type": "item",
@@ -278,7 +292,8 @@
                     "owner": "ndaniel",
                     "repo": "fusioncatcher",
                     "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 },
                 {
                   "node_type": "item",
@@ -293,7 +308,8 @@
                     "owner": "Oshlack",
                     "repo": "JAFFA",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 },
                 {
                   "node_type": "item",
@@ -308,7 +324,8 @@
                     "owner": "STAR-Fusion",
                     "repo": "STAR-Fusion",
                     "stars": 254
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:31:51.165Z"
                 }
               ],
               "description": null,
@@ -340,8 +357,9 @@
                 "last_commit": "2026-03-19T04:57:17Z",
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3793
-              }
+                "stars": 3795
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -356,7 +374,8 @@
                 "owner": "biowasm",
                 "repo": "biowasm",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -371,7 +390,8 @@
                 "owner": "robertaboukhalil",
                 "repo": "fastq.bio",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -386,7 +406,8 @@
                 "owner": "lh3",
                 "repo": "minimap2",
                 "stars": 2242
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -401,7 +422,8 @@
                 "owner": "jltsiren",
                 "repo": "gbwt",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -416,7 +438,8 @@
                 "owner": "jltsiren",
                 "repo": "gbwt-rs",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -427,11 +450,12 @@
                 "archived": false,
                 "id": 24727800,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:11:17Z",
+                "last_commit": "2026-08-28T01:01:09Z",
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1334
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -446,7 +470,8 @@
                 "owner": "CIDARLAB",
                 "repo": "Cello-v2",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             }
           ],
           "description": "NVIDIA Clara Parabricks Pipelines - perform secondary analysis of next generation sequencing (NGS) DNA and RNA data, blazing fast speeds and low cost. Can analyze whole human genomes in about 45 minutes. Includes Deep Variant.",
@@ -474,7 +499,8 @@
                 "owner": "the-matter-lab",
                 "repo": "JANUS",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -489,7 +515,8 @@
                 "owner": "zhichunguo",
                 "repo": "Meta-MGNN",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -504,7 +531,8 @@
                 "owner": "ardigen",
                 "repo": "mol-cycle-gan",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -519,7 +547,8 @@
                 "owner": "wengong-jin",
                 "repo": "hgraph2graph",
                 "stars": 442
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -534,7 +563,8 @@
                 "owner": "zhichunguo",
                 "repo": "GraSeq",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -549,7 +579,8 @@
                 "owner": "wengong-jin",
                 "repo": "icml18-jtnn",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -564,7 +595,8 @@
                 "owner": "DSPsleeporg",
                 "repo": "smiles-transformer",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -579,7 +611,8 @@
                 "owner": "awslabs",
                 "repo": "dgl-lifesci",
                 "stars": 809
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -594,7 +627,8 @@
                 "owner": "xysteve00",
                 "repo": "seq3seq-fingerprint-regression",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -608,8 +642,9 @@
                 "last_commit": "2024-07-08T06:36:49Z",
                 "owner": "molecularsets",
                 "repo": "moses",
-                "stars": 987
-              }
+                "stars": 988
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -624,7 +659,8 @@
                 "owner": "baoilleach",
                 "repo": "deepsmiles",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             }
           ],
           "description": "(2021) Highly accurate protein structure prediction with AlphaFold\n(2021) Deep molecular dreaming: inverse machine learning for de-novo molecular design and interpretability with surjective representations\n(2021) Transformer neural network for protein-specific de novo drug generation as a machine translation problem\n(2021) Using Gans With Adaptive Training Data to search for new molecules\n(2021) Quantum Generative Models for Small Molecule Drug Discovery --> :computer: QuantumGan code\n(2021) Machine learning designs non-hemolytic antimicrobial peptides\n(2021) Assigning Confidence To Molecular Property Prediction\n(2020) Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition\n(2020) A Turing Test For Molecular Generation\n(2020) Protein Contact Map Denoising Using Generative Adversarial Networks --> :computer: ContactGAN code\n(2020) Relevant Applications of Generative Adversarial Networks in Drug Design and Discovery: Molecular De Novo Design, Dimensionality Reduction, and De Novo Peptide and Protein Design\n(2020) Deep Learning for Prediction and Optimization of Fast-Flow Peptide Synthesis\n(2020) Curiosity in exploring chemical space: Intrinsic rewards for deep molecular reinforcement learning\n(2020) High-Throughput Docking Using Quantum Mechanical Scoring\n(2020) Deep Learning Methods in Protein Structure Prediction\n(2020) Revealing cytotoxic substructures in molecules using deep learning\n(2020) ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction\n(2019)From Machine Learning to Deep Learning: Advances in scoring functions for protein-ligand docking\n(2019) The Unreasonable Effectiveness of Convolutional Neural Networks in Population Genetic Inference, Molecular Biology and Evolution\n(2019) Deep Learning Enables Rapid Identification of Potent DDR1 Kinase Inhibitors --> :computer: GENTRL code\n(2019) SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction\n(2019) eToxPred: a machine learning-based approach to estimate the toxicity of drug candidates --> :computer: eToxPred code\n(2018) Chemi-Net: A molecular graph convolutional network for accurate drug property prediction\n(2018) Machine Learning of Toxicological Big Data Enables Read-Across Structure Activity Relationships (RASAR) Outperforming Animal Test Reproducibility\n(2018) DeepFam: deep learning based alignment-free method for protein family modeling and prediction\n(2018) Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment\n(2017) Protein-Ligand Scoring with CNN\n(2017) Quantum-chemical insights from deep tensor neural networks\n(2016) Incorporating QM and solvation into docking for applications to GPCR targets\n(2014) MRFalign: Protein Homology Detection through Alignment of Markov Random Fields\n(2012) Molecular Docking: A powerful approach for structure-based drug discovery\n(2011) The structural basis for agonist and partial agonist action on a β(1)-adrenergic receptor\n(2011) Molecular Dynamics Simulations of Protein Dynamics and their relevance to drug discovery\n(2010) AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization and multithreading\n(2009) Amphipol-Assisted in Vitro Folding of G Protein-Coupled Receptors\n(2005) GPCR Folding and Maturation from The G Protein-Coupled Receptors Handbook\n(1996) Double-mutant cycles: a powerful tool for analyzing protein structure and function\n(1982) A Geometric Approach to MacroMolecule Ligand Interactions",
@@ -646,11 +682,12 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:00:46Z",
+            "last_commit": "2026-08-28T13:43:09Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39515
-          }
+            "stars": 39528
+          },
+          "first_seen": "2026-08-28T16:31:51.165Z"
         },
         {
           "node_type": "item",
@@ -661,11 +698,12 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-27T14:59:37Z",
+            "last_commit": "2026-08-28T16:29:49Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36217
-          }
+            "stars": 36220
+          },
+          "first_seen": "2026-08-28T16:31:51.165Z"
         },
         {
           "node_type": "item",
@@ -679,8 +717,9 @@
             "last_commit": "2025-10-29T14:08:37Z",
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14289
-          }
+            "stars": 14290
+          },
+          "first_seen": "2026-08-28T16:31:51.165Z"
         },
         {
           "children": [
@@ -693,11 +732,12 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-27T14:59:37Z",
+                "last_commit": "2026-08-28T16:29:49Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36217
-              }
+                "stars": 36220
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -712,7 +752,8 @@
                 "owner": "lweitkamp",
                 "repo": "GANs-JAX",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             },
             {
               "node_type": "item",
@@ -727,7 +768,8 @@
                 "owner": "jax-md",
                 "repo": "jax-md",
                 "stars": 1458
-              }
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             }
           ],
           "description": "AlphaFold2 is Google's state of the art protein structure prediction model.\nAF2 predicts 3D coordinates of all atoms of a protein, using the amino acid sequence and aligned sequences homology.\nIf you didn't know jax's nn.logsoftmax AF2's implemenation would not mean much to you.\nSo going down the rabbit hole in Jax's nn we have the softmax function:\n(The function, rescales elements to the range )\nThe accepted arguments are:\nand an array is returned.\nInside this function we go further down the lane to:\nThis in turn relies upon\nAutomatic Differentiation Lecture Slides",
@@ -748,8 +790,9 @@
                 "last_commit": "2026-06-30T13:24:50Z",
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8799
-              }
+                "stars": 8800
+              },
+              "first_seen": "2026-08-28T16:31:51.165Z"
             }
           ],
           "description": "Chemisty 2E - :atom: Equivalent to 201 & 202 Level Chemistry Book\nChemistry: Atoms First 2E :atom: Fork of 2E but not with more Atoms!!!!\nBiology 2E 👽 Like Chemistry 2E but Biology\nNeural Networks and Deep Learning 🤖 Michael Nielsen writes another masterpiece - About Deep Learning - if you are into that sort of thing.\nReinforcement Learning 🤖 The only book you need on the subject\nPattern Recognition and Machine Learning 🤖 Another classic banger",
@@ -761,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:07:26.069Z",
+    "last_updated": "2026-08-28T16:31:51.165Z",
     "original_repository_info": {
       "archived": false,
       "id": 350080649,
