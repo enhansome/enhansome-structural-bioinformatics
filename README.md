@@ -350,7 +350,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 (2020) [Protein Contact Map Denoising Using Generative Adversarial Networks](https://www.biorxiv.org/content/biorxiv/early/2020/06/27/2020.06.26.174300.full.pdf) --> :computer: [ContactGAN code](https://github.com/kiharalab/ContactGAN) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2021-06-07
 
-(2020) [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/pdf/2002.03230.pdf) --> :computer: [code](https://github.com/wengong-jin/hgraph2graph/) ⭐ 442 | 🐛 44 | 🌐 Python | 📅 2022-06-28
+(2020) [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/pdf/2002.03230.pdf) --> :computer: [code](https://github.com/wengong-jin/hgraph2graph/) ⭐ 443 | 🐛 44 | 🌐 Python | 📅 2022-06-28
 
 (2020) [Relevant Applications of Generative Adversarial Networks in Drug Design and Discovery: Molecular De Novo Design, Dimensionality Reduction, and De Novo Peptide and Protein Design](https://arxiv.org/pdf/2101.03438.pdf)
 
@@ -481,8 +481,8 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 # Important Technology in the Future of Structural BioInformatics
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 39,536 | 🐛 2,870 | 🌐 Rust | 📅 2026-08-28 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,070 | 🐛 2,583 | 🌐 C++ | 📅 2026-08-28 only Rusty.
-* [Jax](https://github.com/google/jax) ⭐ 36,222 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 - the future? of domain specific ML compiling?
+* [Polars](https://github.com/pola-rs/polars) ⭐ 39,537 | 🐛 2,870 | 🌐 Rust | 📅 2026-08-29 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,070 | 🐛 2,583 | 🌐 C++ | 📅 2026-08-28 only Rusty.
+* [Jax](https://github.com/google/jax) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 - the future? of domain specific ML compiling?
 * [Annoy](https://github.com/spotify/annoy) ⭐ 14,292 | 🐛 86 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
 * [gRPC](https://grpc.io/) - connect your devices binary like
 * [Kubernetes](https://kubernetes.io/) - make all your informatics container orchestration declarative
@@ -539,7 +539,7 @@ def softmax_cross_entropy(logits, labels):
   
 ```
 
-If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,222 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 AF2's implemenation would not mean much to you.
+If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 AF2's implemenation would not mean much to you.
 
 So going down the rabbit hole in Jax's nn we have the softmax function:
 
@@ -560,7 +560,7 @@ and an array is returned.
 
 Inside this function we go further down the lane to:
 
-* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,222 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
+* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
   gradients during forward or reverse-mode automatic differentiation.
 
 ```python
@@ -574,7 +574,7 @@ def stop_gradient(x):
   return tree_map(stop, x)
 ```
 
-This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,222 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29
+This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29
 
 ```python
 def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
