@@ -40,7 +40,7 @@ The protein folding problem consists of three closely related puzzles:
 
 #### [AlphaFold 14](https://www.predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf)
 
-* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,815 | 🐛 307 | 🌐 Python | 📅 2026-04-22
+* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,817 | 🐛 307 | 🌐 Python | 📅 2026-04-22
 * [:book: Paper 2](https://www.nature.com/articles/s41586-021-03819-2_reference.pdf)
 * [:book: Paper](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D)
 * [:newspaper: article](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
@@ -52,7 +52,7 @@ The protein folding problem consists of three closely related puzzles:
 
 #### [AlphaFold 13](https://www.predictioncenter.org/CASP13/doc/presentations/Pred_CASP13-Structure-AlphaFold-Jumper.pdf)
 
-* [:floppy\_disk: Code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) ⭐ 15,173 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+* [:floppy\_disk: Code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) ⭐ 15,175 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 * [:floppy\_disk: Code](https://github.com/dellacortelab/prospr) ⭐ 415 | 🐛 14 | 🌐 Python | 📅 2022-10-06 - Prospr - Open Source Implementation
 * [:book: Prospr Paper](https://www.biorxiv.org/content/10.1101/830273v1)
 * [AlphaFold @ Casp13: What Just Happened?](https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/)
@@ -85,11 +85,11 @@ The protein folding problem consists of three closely related puzzles:
 
 [AutoDock Vina](http://vina.scripps.edu/) - significantly improves the average accuracy of the binding mode predictions compared to AutoDock
 
-[AutoDock GPU](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 610 | 🐛 87 | 🌐 C++ | 📅 2026-08-11
+[AutoDock GPU](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 609 | 🐛 87 | 🌐 C++ | 📅 2026-08-11
 
 * [:book: Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041641/)
 
-[Gnina](https://github.com/gnina/gnina) ⭐ 966 | 🐛 24 | 🌐 C++ | 📅 2026-06-29 - deep learning framework for molecular docking -inside deepchem (/dock/pose\_generation.py)
+[Gnina](https://github.com/gnina/gnina) ⭐ 965 | 🐛 24 | 🌐 C++ | 📅 2026-06-29 - deep learning framework for molecular docking -inside deepchem (/dock/pose\_generation.py)
 
 [GOMoDo](https://gomodo.grs.kfa-juelich.de/php/about.php) - GPCR online modeling and docking server
 
@@ -225,7 +225,7 @@ Scoring Functions in MD can be categorized into:
 
 [FusionCatcher](https://github.com/ndaniel/fusioncatcher) ⭐ 154 | 🐛 47 | 🌐 Python | 📅 2026-04-16 - Finder of somatic fusion-genes in RNA-seq data
 
-[Jaffa](https://github.com/Oshlack/JAFFA) ⭐ 117 | 🐛 19 | 🌐 C++ | 📅 2026-08-25 - JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions
+[Jaffa](https://github.com/Oshlack/JAFFA) ⭐ 118 | 🐛 19 | 🌐 C++ | 📅 2026-08-25 - JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions
 
 [StarFusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) ⭐ 254 | 🐛 159 | 🌐 Perl | 📅 2026-04-18 | 📖 [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1842-9)
 
@@ -282,7 +282,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 ## Genomics Software
 
-[Deep Variant](https://github.com/google/deepvariant) ⭐ 3,795 | 🐛 5 | 🌐 Python | 📅 2026-03-19 - analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data
+[Deep Variant](https://github.com/google/deepvariant) ⭐ 3,796 | 🐛 5 | 🌐 Python | 📅 2026-03-19 - analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data
 
 [NVIDIA Clara Parabricks Pipelines](https://docs.nvidia.com/clara/parabricks/v3.5/text/software_overview.html) - perform secondary analysis of next generation sequencing (NGS) DNA and RNA data, blazing fast speeds and low cost. Can analyze whole human genomes in about 45 minutes. Includes Deep Variant.
 
@@ -481,8 +481,8 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 # Important Technology in the Future of Structural BioInformatics
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 39,537 | 🐛 2,870 | 🌐 Rust | 📅 2026-08-29 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,070 | 🐛 2,583 | 🌐 C++ | 📅 2026-08-28 only Rusty.
-* [Jax](https://github.com/google/jax) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 - the future? of domain specific ML compiling?
+* [Polars](https://github.com/pola-rs/polars) ⭐ 39,549 | 🐛 2,879 | 🌐 Rust | 📅 2026-08-30 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,072 | 🐛 2,588 | 🌐 C++ | 📅 2026-08-28 only Rusty.
+* [Jax](https://github.com/google/jax) ⭐ 36,226 | 🐛 2,493 | 🌐 Python | 📅 2026-08-30 - the future? of domain specific ML compiling?
 * [Annoy](https://github.com/spotify/annoy) ⭐ 14,292 | 🐛 86 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
 * [gRPC](https://grpc.io/) - connect your devices binary like
 * [Kubernetes](https://kubernetes.io/) - make all your informatics container orchestration declarative
@@ -539,7 +539,7 @@ def softmax_cross_entropy(logits, labels):
   
 ```
 
-If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 AF2's implemenation would not mean much to you.
+If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,226 | 🐛 2,493 | 🌐 Python | 📅 2026-08-30 AF2's implemenation would not mean much to you.
 
 So going down the rabbit hole in Jax's nn we have the softmax function:
 
@@ -560,7 +560,7 @@ and an array is returned.
 
 Inside this function we go further down the lane to:
 
-* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
+* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,226 | 🐛 2,493 | 🌐 Python | 📅 2026-08-30 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
   gradients during forward or reverse-mode automatic differentiation.
 
 ```python
@@ -574,7 +574,7 @@ def stop_gradient(x):
   return tree_map(stop, x)
 ```
 
-This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,223 | 🐛 2,492 | 🌐 Python | 📅 2026-08-29
+This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,226 | 🐛 2,493 | 🌐 Python | 📅 2026-08-30
 
 ```python
 def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
@@ -603,7 +603,7 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 [Biology 2E](https://openstax.org/details/books/biology-2e) 👽 Like Chemistry 2E but Biology
 
-[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,800 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-30 🤖 The Gospel of Machine Learning
+[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,801 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-30 🤖 The Gospel of Machine Learning
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 🤖 Michael Nielsen writes another masterpiece - About Deep Learning - if you are into that sort of thing.
 
@@ -613,4 +613,4 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
