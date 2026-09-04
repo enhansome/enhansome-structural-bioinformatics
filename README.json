@@ -248,10 +248,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-11T19:00:24Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 609,
+                "stars": 610,
                 "topics": [
                   "autodock4",
                   "cuda",
@@ -279,7 +279,7 @@
                 "open_issues": 24,
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "cheminformatics",
                   "computational-chemistry",
@@ -442,7 +442,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-25T22:25:14Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "Oshlack",
                     "repo": "JAFFA",
                     "stars": 118,
@@ -628,7 +628,7 @@
                 "open_issues": 2,
                 "owner": "jltsiren",
                 "repo": "gbwt",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -666,7 +666,7 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T02:26:26Z",
+                "last_commit": "2026-09-04T01:19:27Z",
                 "open_issues": 382,
                 "owner": "vgteam",
                 "repo": "vg",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-03T07:45:56Z",
-            "open_issues": 2873,
+            "last_commit": "2026-09-04T08:36:51Z",
+            "open_issues": 2868,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39598,
+            "stars": 39641,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T08:07:31Z",
-            "open_issues": 2510,
+            "last_commit": "2026-09-04T08:30:05Z",
+            "open_issues": 2518,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36243,
+            "stars": 36251,
             "topics": [
               "jax"
             ]
@@ -1060,7 +1060,7 @@
             "open_issues": 86,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14293,
+            "stars": 14292,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T08:07:31Z",
-                "open_issues": 2510,
+                "last_commit": "2026-09-04T08:30:05Z",
+                "open_issues": 2518,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36243,
+                "stars": 36251,
                 "topics": [
                   "jax"
                 ]
@@ -1170,7 +1170,7 @@
                 "open_issues": 2,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8804,
+                "stars": 8805,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:51:17.691Z",
+    "last_updated": "2026-09-04T08:46:35.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
