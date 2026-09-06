@@ -115,7 +115,7 @@
                         "open_issues": 307,
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14824,
+                        "stars": 14825,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -279,7 +279,7 @@
                 "open_issues": 24,
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 968,
+                "stars": 969,
                 "topics": [
                   "cheminformatics",
                   "computational-chemistry",
@@ -505,7 +505,7 @@
                 "open_issues": 4,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3802,
+                "stars": 3804,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -535,7 +535,7 @@
                 "id": 206987038,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:44:36Z",
+                "last_commit": "2026-09-06T05:39:49Z",
                 "open_issues": 12,
                 "owner": "biowasm",
                 "repo": "biowasm",
@@ -670,7 +670,7 @@
                 "open_issues": 382,
                 "owner": "vgteam",
                 "repo": "vg",
-                "stars": 1334,
+                "stars": 1335,
                 "topics": [
                   "dna",
                   "genome-graph",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T07:45:24Z",
-            "open_issues": 2866,
+            "last_commit": "2026-09-06T07:39:48Z",
+            "open_issues": 2870,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39653,
+            "stars": 39659,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T08:06:41Z",
-            "open_issues": 2511,
+            "last_commit": "2026-09-06T08:05:24Z",
+            "open_issues": 2517,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36256,
+            "stars": 36257,
             "topics": [
               "jax"
             ]
@@ -1060,7 +1060,7 @@
             "open_issues": 86,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14292,
+            "stars": 14293,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T08:06:41Z",
-                "open_issues": 2511,
+                "last_commit": "2026-09-06T08:05:24Z",
+                "open_issues": 2517,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36256,
+                "stars": 36257,
                 "topics": [
                   "jax"
                 ]
@@ -1167,7 +1167,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-06-30T13:24:50Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "aimacode",
                 "repo": "aima-python",
                 "stars": 8805,
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:16:54.865Z",
+    "last_updated": "2026-09-06T08:35:43.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
