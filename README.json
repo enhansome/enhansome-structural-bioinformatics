@@ -115,7 +115,7 @@
                         "open_issues": 307,
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14843,
+                        "stars": 14844,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -143,7 +143,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15191,
+                        "stars": 15192,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -505,7 +505,7 @@
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3805,
+                "stars": 3807,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -602,7 +602,7 @@
                 "open_issues": 76,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2245,
+                "stars": 2246,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -666,7 +666,7 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T23:18:18Z",
+                "last_commit": "2026-09-10T18:36:23Z",
                 "open_issues": 383,
                 "owner": "vgteam",
                 "repo": "vg",
@@ -736,7 +736,7 @@
                 "open_issues": 2,
                 "owner": "the-matter-lab",
                 "repo": "JANUS",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:49:54Z",
-            "open_issues": 2869,
+            "last_commit": "2026-09-11T06:56:08Z",
+            "open_issues": 2879,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39699,
+            "stars": 39707,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T08:15:41Z",
-            "open_issues": 2540,
+            "last_commit": "2026-09-11T08:17:51Z",
+            "open_issues": 2553,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36283,
+            "stars": 36290,
             "topics": [
               "jax"
             ]
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T08:15:41Z",
-                "open_issues": 2540,
+                "last_commit": "2026-09-11T08:17:51Z",
+                "open_issues": 2553,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36283,
+                "stars": 36290,
                 "topics": [
                   "jax"
                 ]
@@ -1170,7 +1170,7 @@
                 "open_issues": 3,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8817,
+                "stars": 8823,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:53:13.020Z",
+    "last_updated": "2026-09-11T08:50:52.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
