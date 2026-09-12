@@ -115,7 +115,7 @@
                         "open_issues": 307,
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14844,
+                        "stars": 14846,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -143,7 +143,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15192,
+                        "stars": 15193,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -505,7 +505,7 @@
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3807,
+                "stars": 3806,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -666,8 +666,8 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T18:36:23Z",
-                "open_issues": 383,
+                "last_commit": "2026-09-11T17:33:28Z",
+                "open_issues": 379,
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1335,
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T06:56:08Z",
-            "open_issues": 2879,
+            "last_commit": "2026-09-12T06:36:57Z",
+            "open_issues": 2888,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39707,
+            "stars": 39711,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T08:17:51Z",
+            "last_commit": "2026-09-12T08:05:18Z",
             "open_issues": 2553,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36290,
+            "stars": 36297,
             "topics": [
               "jax"
             ]
@@ -1060,7 +1060,7 @@
             "open_issues": 86,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14297,
+            "stars": 14298,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T08:17:51Z",
+                "last_commit": "2026-09-12T08:05:18Z",
                 "open_issues": 2553,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36290,
+                "stars": 36297,
                 "topics": [
                   "jax"
                 ]
@@ -1142,7 +1142,7 @@
                 "open_issues": 37,
                 "owner": "jax-md",
                 "repo": "jax-md",
-                "stars": 1460,
+                "stars": 1461,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:50:52.754Z",
+    "last_updated": "2026-09-12T08:34:34.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
