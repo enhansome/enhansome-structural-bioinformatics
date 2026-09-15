@@ -112,10 +112,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-04-22T17:58:21Z",
-                        "open_issues": 307,
+                        "open_issues": 308,
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14855,
+                        "stars": 14858,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -140,10 +140,10 @@
                         "language": "Jupyter Notebook",
                         "license": "Apache-2.0",
                         "last_commit": "2026-06-17T13:51:27Z",
-                        "open_issues": 358,
+                        "open_issues": 359,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15196,
+                        "stars": 15198,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -505,7 +505,7 @@
                 "open_issues": 2,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3806,
+                "stars": 3807,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -535,8 +535,8 @@
                 "id": 206987038,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-06T05:39:49Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-15T07:34:03Z",
+                "open_issues": 7,
                 "owner": "biowasm",
                 "repo": "biowasm",
                 "stars": 277,
@@ -666,7 +666,7 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T17:33:28Z",
+                "last_commit": "2026-09-14T17:41:33Z",
                 "open_issues": 379,
                 "owner": "vgteam",
                 "repo": "vg",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-14T09:36:37Z",
-            "open_issues": 2901,
+            "last_commit": "2026-09-15T09:20:36Z",
+            "open_issues": 2894,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39724,
+            "stars": 39730,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T09:01:18Z",
-            "open_issues": 2552,
+            "last_commit": "2026-09-15T09:19:51Z",
+            "open_issues": 2562,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36299,
+            "stars": 36302,
             "topics": [
               "jax"
             ]
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T09:01:18Z",
-                "open_issues": 2552,
+                "last_commit": "2026-09-15T09:19:51Z",
+                "open_issues": 2562,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36299,
+                "stars": 36302,
                 "topics": [
                   "jax"
                 ]
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:46:20.814Z",
+    "last_updated": "2026-09-15T09:21:12.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
