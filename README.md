@@ -40,7 +40,7 @@ The protein folding problem consists of three closely related puzzles:
 
 #### [AlphaFold 14](https://www.predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf)
 
-* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,859 | 🐛 308 | 🌐 Python | 📅 2026-04-22
+* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,860 | 🐛 308 | 🌐 Python | 📅 2026-04-22
 * [:book: Paper 2](https://www.nature.com/articles/s41586-021-03819-2_reference.pdf)
 * [:book: Paper](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D)
 * [:newspaper: article](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
@@ -227,7 +227,7 @@ Scoring Functions in MD can be categorized into:
 
 [Jaffa](https://github.com/Oshlack/JAFFA) ⭐ 118 | 🐛 21 | 🌐 C++ | 📅 2026-08-25 - JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions
 
-[StarFusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) ⭐ 254 | 🐛 159 | 🌐 Perl | 📅 2026-04-18 | 📖 [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1842-9)
+[StarFusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) ⭐ 255 | 🐛 159 | 🌐 Perl | 📅 2026-04-18 | 📖 [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1842-9)
 
 ### Groups
 
@@ -481,9 +481,9 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 # Important Technology in the Future of Structural BioInformatics
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 39,781 | 🐛 2,891 | 🌐 Rust | 📅 2026-09-19 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,139 | 🐛 2,549 | 🌐 C++ | 📅 2026-09-18 only Rusty.
-* [Jax](https://github.com/google/jax) ⭐ 36,314 | 🐛 2,575 | 🌐 Python | 📅 2026-09-19 - the future? of domain specific ML compiling?
-* [Annoy](https://github.com/spotify/annoy) ⭐ 14,301 | 🐛 86 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
+* [Polars](https://github.com/pola-rs/polars) ⭐ 39,807 | 🐛 2,889 | 🌐 Rust | 📅 2026-09-20 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,140 | 🐛 2,551 | 🌐 C++ | 📅 2026-09-18 only Rusty.
+* [Jax](https://github.com/google/jax) ⭐ 36,316 | 🐛 2,584 | 🌐 Python | 📅 2026-09-20 - the future? of domain specific ML compiling?
+* [Annoy](https://github.com/spotify/annoy) ⭐ 14,302 | 🐛 86 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
 * [gRPC](https://grpc.io/) - connect your devices binary like
 * [Kubernetes](https://kubernetes.io/) - make all your informatics container orchestration declarative
 * [ONNX](https://onnx.ai/) - make all your models interoperable
@@ -539,7 +539,7 @@ def softmax_cross_entropy(logits, labels):
   
 ```
 
-If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,314 | 🐛 2,575 | 🌐 Python | 📅 2026-09-19 AF2's implemenation would not mean much to you.
+If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,316 | 🐛 2,584 | 🌐 Python | 📅 2026-09-20 AF2's implemenation would not mean much to you.
 
 So going down the rabbit hole in Jax's nn we have the softmax function:
 
@@ -560,7 +560,7 @@ and an array is returned.
 
 Inside this function we go further down the lane to:
 
-* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,314 | 🐛 2,575 | 🌐 Python | 📅 2026-09-19 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
+* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,316 | 🐛 2,584 | 🌐 Python | 📅 2026-09-20 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
   gradients during forward or reverse-mode automatic differentiation.
 
 ```python
@@ -574,7 +574,7 @@ def stop_gradient(x):
   return tree_map(stop, x)
 ```
 
-This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,314 | 🐛 2,575 | 🌐 Python | 📅 2026-09-19
+This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,316 | 🐛 2,584 | 🌐 Python | 📅 2026-09-20
 
 ```python
 def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
@@ -603,7 +603,7 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 [Biology 2E](https://openstax.org/details/books/biology-2e) 👽 Like Chemistry 2E but Biology
 
-[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,833 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-06-30 🤖 The Gospel of Machine Learning
+[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,834 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-06-30 🤖 The Gospel of Machine Learning
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 🤖 Michael Nielsen writes another masterpiece - About Deep Learning - if you are into that sort of thing.
 
@@ -613,4 +613,4 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
