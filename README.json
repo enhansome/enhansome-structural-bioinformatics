@@ -115,7 +115,7 @@
                         "open_issues": 308,
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14860,
+                        "stars": 14862,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -143,7 +143,7 @@
                         "open_issues": 359,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15202,
+                        "stars": 15203,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -279,7 +279,7 @@
                 "open_issues": 24,
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 977,
+                "stars": 980,
                 "topics": [
                   "cheminformatics",
                   "computational-chemistry",
@@ -378,7 +378,7 @@
                     "open_issues": 4,
                     "owner": "bioinformatics-polito",
                     "repo": "DEEPrior",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:31:51.165Z"
@@ -670,7 +670,7 @@
                 "open_issues": 386,
                 "owner": "vgteam",
                 "repo": "vg",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "dna",
                   "genome-graph",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-22T09:06:12Z",
-            "open_issues": 2911,
+            "last_commit": "2026-09-23T05:26:47Z",
+            "open_issues": 2921,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39837,
+            "stars": 39845,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T09:12:40Z",
-            "open_issues": 2597,
+            "last_commit": "2026-09-23T09:12:47Z",
+            "open_issues": 2607,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36322,
+            "stars": 36328,
             "topics": [
               "jax"
             ]
@@ -1060,7 +1060,7 @@
             "open_issues": 86,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14301,
+            "stars": 14302,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T09:12:40Z",
-                "open_issues": 2597,
+                "last_commit": "2026-09-23T09:12:47Z",
+                "open_issues": 2607,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36322,
+                "stars": 36328,
                 "topics": [
                   "jax"
                 ]
@@ -1142,7 +1142,7 @@
                 "open_issues": 39,
                 "owner": "jax-md",
                 "repo": "jax-md",
-                "stars": 1462,
+                "stars": 1463,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1170,7 +1170,7 @@
                 "open_issues": 3,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8835,
+                "stars": 8836,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:14:12.523Z",
+    "last_updated": "2026-09-23T09:14:37.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
