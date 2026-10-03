@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Proteins",
-          "description": null,
+          "description": "twoXes/awesome-structural-bioinformatics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Genomics",
-          "description": null,
+          "description": "twoXes/awesome-structural-bioinformatics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -102,7 +102,7 @@
                     {
                       "node_type": "item",
                       "title": ":computer: Code",
-                      "description": null,
+                      "description": "google-deepmind/alphafold",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -130,7 +130,7 @@
                     {
                       "node_type": "item",
                       "title": ":floppy_disk: Code",
-                      "description": null,
+                      "description": "google-deepmind/deepmind-research",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -200,7 +200,7 @@
                     {
                       "node_type": "item",
                       "title": "💻 Github",
-                      "description": null,
+                      "description": "ba-lab/pdnet",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -238,7 +238,7 @@
             {
               "node_type": "item",
               "title": "AutoDock GPU",
-              "description": null,
+              "description": "ccsb-scripps/AutoDock-GPU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -251,7 +251,7 @@
                 "open_issues": 89,
                 "owner": "ccsb-scripps",
                 "repo": "AutoDock-GPU",
-                "stars": 615,
+                "stars": 613,
                 "topics": [
                   "autodock4",
                   "cuda",
@@ -445,7 +445,7 @@
                     "open_issues": 21,
                     "owner": "Oshlack",
                     "repo": "JAFFA",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:31:51.165Z"
@@ -505,7 +505,7 @@
                 "open_issues": 6,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3812,
+                "stars": 3813,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -636,7 +636,7 @@
             {
               "node_type": "item",
               "title": "gBWT in Rust",
-              "description": null,
+              "description": "jltsiren/gbwt-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -666,8 +666,8 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T03:14:55Z",
-                "open_issues": 390,
+                "last_commit": "2026-10-02T19:15:56Z",
+                "open_issues": 388,
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1343,
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:20:43Z",
-            "open_issues": 2926,
+            "last_commit": "2026-10-02T20:09:30Z",
+            "open_issues": 2928,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39911,
+            "stars": 39914,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,8 +1033,8 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:25:11Z",
-            "open_issues": 2631,
+            "last_commit": "2026-10-03T04:09:09Z",
+            "open_issues": 2629,
             "owner": "jax-ml",
             "repo": "jax",
             "stars": 36370,
@@ -1057,7 +1057,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2025-10-29T14:08:37Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "spotify",
             "repo": "annoy",
             "stars": 14310,
@@ -1087,8 +1087,8 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:25:11Z",
-                "open_issues": 2631,
+                "last_commit": "2026-10-03T04:09:09Z",
+                "open_issues": 2629,
                 "owner": "jax-ml",
                 "repo": "jax",
                 "stars": 36370,
@@ -1101,7 +1101,7 @@
             {
               "node_type": "item",
               "title": "Gans in Jax",
-              "description": null,
+              "description": "lweitkamp/GANs-JAX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1129,7 +1129,7 @@
             {
               "node_type": "item",
               "title": "Jax MD",
-              "description": null,
+              "description": "jax-md/jax-md",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,7 +1170,7 @@
                 "open_issues": 3,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8840,
+                "stars": 8841,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:26:11.122Z",
+    "last_updated": "2026-10-03T05:12:00.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
