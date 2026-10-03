@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:09:30Z",
+            "last_commit": "2026-10-03T07:59:15Z",
             "open_issues": 2928,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39914,
+            "stars": 39916,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,8 +1033,8 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:09:09Z",
-            "open_issues": 2629,
+            "last_commit": "2026-10-03T09:12:48Z",
+            "open_issues": 2630,
             "owner": "jax-ml",
             "repo": "jax",
             "stars": 36370,
@@ -1060,7 +1060,7 @@
             "open_issues": 89,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14310,
+            "stars": 14311,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -1087,8 +1087,8 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:09:09Z",
-                "open_issues": 2629,
+                "last_commit": "2026-10-03T09:12:48Z",
+                "open_issues": 2630,
                 "owner": "jax-ml",
                 "repo": "jax",
                 "stars": 36370,
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:00.079Z",
+    "last_updated": "2026-10-03T09:47:50.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
