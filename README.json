@@ -505,7 +505,7 @@
                 "open_issues": 6,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3814,
+                "stars": 3815,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -666,8 +666,8 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:15:56Z",
-                "open_issues": 388,
+                "last_commit": "2026-10-05T09:58:51Z",
+                "open_issues": 389,
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1343,
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-04T09:01:30Z",
-            "open_issues": 2930,
+            "last_commit": "2026-10-05T10:48:26Z",
+            "open_issues": 2933,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39914,
+            "stars": 39915,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T08:10:44Z",
-            "open_issues": 2640,
+            "last_commit": "2026-10-05T10:39:57Z",
+            "open_issues": 2645,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36374,
+            "stars": 36378,
             "topics": [
               "jax"
             ]
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T08:10:44Z",
-                "open_issues": 2640,
+                "last_commit": "2026-10-05T10:39:57Z",
+                "open_issues": 2645,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36374,
+                "stars": 36378,
                 "topics": [
                   "jax"
                 ]
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:31:23.419Z",
+    "last_updated": "2026-10-05T11:21:51.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
