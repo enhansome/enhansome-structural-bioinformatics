@@ -40,7 +40,7 @@ The protein folding problem consists of three closely related puzzles:
 
 #### [AlphaFold 14](https://www.predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf)
 
-* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,875 | 🐛 309 | 🌐 Python | 📅 2026-04-22
+* [:computer: Code](https://github.com/deepmind/alphafold) ⭐ 14,877 | 🐛 309 | 🌐 Python | 📅 2026-04-22
 * [:book: Paper 2](https://www.nature.com/articles/s41586-021-03819-2_reference.pdf)
 * [:book: Paper](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D)
 * [:newspaper: article](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
@@ -52,7 +52,7 @@ The protein folding problem consists of three closely related puzzles:
 
 #### [AlphaFold 13](https://www.predictioncenter.org/CASP13/doc/presentations/Pred_CASP13-Structure-AlphaFold-Jumper.pdf)
 
-* [:floppy\_disk: Code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) ⭐ 15,223 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
+* [:floppy\_disk: Code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) ⭐ 15,228 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
 * [:floppy\_disk: Code](https://github.com/dellacortelab/prospr) ⭐ 415 | 🐛 14 | 🌐 Python | 📅 2022-10-06 - Prospr - Open Source Implementation
 * [:book: Prospr Paper](https://www.biorxiv.org/content/10.1101/830273v1)
 * [AlphaFold @ Casp13: What Just Happened?](https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/)
@@ -89,7 +89,7 @@ The protein folding problem consists of three closely related puzzles:
 
 * [:book: Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041641/)
 
-[Gnina](https://github.com/gnina/gnina) ⭐ 986 | 🐛 25 | 🌐 C++ | 📅 2026-06-29 - deep learning framework for molecular docking -inside deepchem (/dock/pose\_generation.py)
+[Gnina](https://github.com/gnina/gnina) ⭐ 988 | 🐛 25 | 🌐 C++ | 📅 2026-06-29 - deep learning framework for molecular docking -inside deepchem (/dock/pose\_generation.py)
 
 [GOMoDo](https://gomodo.grs.kfa-juelich.de/php/about.php) - GPCR online modeling and docking server
 
@@ -225,7 +225,7 @@ Scoring Functions in MD can be categorized into:
 
 [FusionCatcher](https://github.com/ndaniel/fusioncatcher) ⭐ 154 | 🐛 47 | 🌐 Python | 📅 2026-04-16 - Finder of somatic fusion-genes in RNA-seq data
 
-[Jaffa](https://github.com/Oshlack/JAFFA) ⭐ 119 | 🐛 22 | 🌐 C++ | 📅 2026-08-25 - JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions
+[Jaffa](https://github.com/Oshlack/JAFFA) ⭐ 119 | 🐛 23 | 🌐 C++ | 📅 2026-08-25 - JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions
 
 [StarFusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) ⭐ 255 | 🐛 159 | 🌐 Perl | 📅 2026-04-18 | 📖 [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1842-9)
 
@@ -282,7 +282,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 ## Genomics Software
 
-[Deep Variant](https://github.com/google/deepvariant) ⭐ 3,815 | 🐛 6 | 🌐 Python | 📅 2026-09-30 - analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data
+[Deep Variant](https://github.com/google/deepvariant) ⭐ 3,816 | 🐛 6 | 🌐 Python | 📅 2026-09-30 - analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data
 
 [NVIDIA Clara Parabricks Pipelines](https://docs.nvidia.com/clara/parabricks/v3.5/text/software_overview.html) - perform secondary analysis of next generation sequencing (NGS) DNA and RNA data, blazing fast speeds and low cost. Can analyze whole human genomes in about 45 minutes. Includes Deep Variant.
 
@@ -298,7 +298,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 * [gBWT in Rust](https://github.com/jltsiren/gbwt-rs) ⭐ 46 | 🐛 1 | 🌐 Rust | 📅 2026-09-14
 
-[VG](https://github.com/vgteam/vg) ⭐ 1,343 | 🐛 390 | 🌐 C++ | 📅 2026-10-08 - tools for working with genome variation graphs
+[VG](https://github.com/vgteam/vg) ⭐ 1,343 | 🐛 390 | 🌐 C++ | 📅 2026-10-10 - tools for working with genome variation graphs
 
 [Cello](https://github.com/CIDARLAB/Cello-v2) ⭐ 74 | 🐛 33 | 🌐 Java | 📅 2022-05-16 - Genetic Circuit Design
 
@@ -372,7 +372,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 (2019) [The Unreasonable Effectiveness of Convolutional Neural Networks in Population Genetic Inference, Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msy224)
 
-(2019) [Deep Learning Enables Rapid Identification of Potent DDR1 Kinase Inhibitors](https://gitlab.com/7tm/smel/-/blob/master/papers/gentrl_paper.pdf) --> :computer: [GENTRL code](https://github.com/insilicomedicine/GENTRL) ⭐ 639 | 🐛 23 | 🌐 Python | 📅 2024-07-25
+(2019) [Deep Learning Enables Rapid Identification of Potent DDR1 Kinase Inhibitors](https://gitlab.com/7tm/smel/-/blob/master/papers/gentrl_paper.pdf) --> :computer: [GENTRL code](https://github.com/insilicomedicine/GENTRL) ⭐ 640 | 🐛 23 | 🌐 Python | 📅 2024-07-25
 
 (2019) [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1802.04364.pdf) --> :computer: [Code](https://github.com/wengong-jin/icml18-jtnn) ⭐ 566 | 🐛 30 | 🌐 Python | 📅 2022-12-01
 
@@ -394,7 +394,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 (2018) [Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment](https://doi.org/10.1186/s13015-018-0123-6)
 
-(2018) [(MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823) --> :computer: [code](https://github.com/molecularsets/moses) ⭐ 992 | 🐛 31 | 🌐 Python | 📅 2024-07-08
+(2018) [(MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823) --> :computer: [code](https://github.com/molecularsets/moses) ⭐ 993 | 🐛 31 | 🌐 Python | 📅 2024-07-08
 
 (2018) [DeepSMILES: An adaptation of SMILES for use in machine-learning of chemical structures](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c73ed6567dfe7e5fec388d/original/deep-smiles-an-adaptation-of-smiles-for-use-in-machine-learning-of-chemical-structures.pdf) --> :computer: [code](https://github.com/baoilleach/deepsmiles) ⭐ 146 | 🐛 6 | 🌐 Python | 📅 2021-05-24
 
@@ -481,9 +481,9 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 # Important Technology in the Future of Structural BioInformatics
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 40,027 | 🐛 2,951 | 🌐 Rust | 📅 2026-10-09 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,192 | 🐛 2,457 | 🌐 C++ | 📅 2026-10-09 only Rusty.
-* [Jax](https://github.com/google/jax) ⭐ 36,395 | 🐛 2,621 | 🌐 Python | 📅 2026-10-09 - the future? of domain specific ML compiling?
-* [Annoy](https://github.com/spotify/annoy) ⭐ 14,313 | 🐛 90 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
+* [Polars](https://github.com/pola-rs/polars) ⭐ 40,085 | 🐛 2,959 | 🌐 Rust | 📅 2026-10-10 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,239 | 🐛 2,461 | 🌐 C++ | 📅 2026-10-09 only Rusty.
+* [Jax](https://github.com/google/jax) ⭐ 36,403 | 🐛 2,588 | 🌐 Python | 📅 2026-10-10 - the future? of domain specific ML compiling?
+* [Annoy](https://github.com/spotify/annoy) ⭐ 14,314 | 🐛 90 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
 * [gRPC](https://grpc.io/) - connect your devices binary like
 * [Kubernetes](https://kubernetes.io/) - make all your informatics container orchestration declarative
 * [ONNX](https://onnx.ai/) - make all your models interoperable
@@ -539,7 +539,7 @@ def softmax_cross_entropy(logits, labels):
   
 ```
 
-If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,395 | 🐛 2,621 | 🌐 Python | 📅 2026-10-09 AF2's implemenation would not mean much to you.
+If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,403 | 🐛 2,588 | 🌐 Python | 📅 2026-10-10 AF2's implemenation would not mean much to you.
 
 So going down the rabbit hole in Jax's nn we have the softmax function:
 
@@ -560,7 +560,7 @@ and an array is returned.
 
 Inside this function we go further down the lane to:
 
-* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,395 | 🐛 2,621 | 🌐 Python | 📅 2026-10-09 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
+* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,403 | 🐛 2,588 | 🌐 Python | 📅 2026-10-10 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
   gradients during forward or reverse-mode automatic differentiation.
 
 ```python
@@ -574,7 +574,7 @@ def stop_gradient(x):
   return tree_map(stop, x)
 ```
 
-This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,395 | 🐛 2,621 | 🌐 Python | 📅 2026-10-09
+This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,403 | 🐛 2,588 | 🌐 Python | 📅 2026-10-10
 
 ```python
 def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
@@ -603,7 +603,7 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 [Biology 2E](https://openstax.org/details/books/biology-2e) 👽 Like Chemistry 2E but Biology
 
-[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,846 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-08 🤖 The Gospel of Machine Learning
+[Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python) ⭐ 8,847 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-08 🤖 The Gospel of Machine Learning
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 🤖 Michael Nielsen writes another masterpiece - About Deep Learning - if you are into that sort of thing.
 
@@ -613,4 +613,4 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
