@@ -143,7 +143,7 @@
                         "open_issues": 359,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15228,
+                        "stars": 15229,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -279,7 +279,7 @@
                 "open_issues": 25,
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 988,
+                "stars": 990,
                 "topics": [
                   "cheminformatics",
                   "computational-chemistry",
@@ -599,7 +599,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-19T22:40:40Z",
-                "open_issues": 78,
+                "open_issues": 77,
                 "owner": "lh3",
                 "repo": "minimap2",
                 "stars": 2254,
@@ -666,8 +666,8 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T09:31:56Z",
-                "open_issues": 390,
+                "last_commit": "2026-10-10T18:16:09Z",
+                "open_issues": 389,
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1343,
@@ -944,7 +944,7 @@
                 "open_issues": 31,
                 "owner": "molecularsets",
                 "repo": "moses",
-                "stars": 993,
+                "stars": 994,
                 "topics": [
                   "benchmark",
                   "drug-discovery",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-10T08:51:18Z",
-            "open_issues": 2959,
+            "last_commit": "2026-10-11T10:16:05Z",
+            "open_issues": 2961,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 40085,
+            "stars": 40096,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T08:10:06Z",
-            "open_issues": 2588,
+            "last_commit": "2026-10-11T08:18:43Z",
+            "open_issues": 2594,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36403,
+            "stars": 36405,
             "topics": [
               "jax"
             ]
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T08:10:06Z",
-                "open_issues": 2588,
+                "last_commit": "2026-10-11T08:18:43Z",
+                "open_issues": 2594,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36403,
+                "stars": 36405,
                 "topics": [
                   "jax"
                 ]
@@ -1142,7 +1142,7 @@
                 "open_issues": 46,
                 "owner": "jax-md",
                 "repo": "jax-md",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1170,7 +1170,7 @@
                 "open_issues": 6,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8847,
+                "stars": 8849,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:32:25.671Z",
+    "last_updated": "2026-10-11T10:44:53.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
