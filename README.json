@@ -115,7 +115,7 @@
                         "open_issues": 309,
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14895,
+                        "stars": 14898,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -143,7 +143,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15238,
+                        "stars": 15240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -279,7 +279,7 @@
                 "open_issues": 25,
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 996,
+                "stars": 997,
                 "topics": [
                   "cheminformatics",
                   "computational-chemistry",
@@ -505,7 +505,7 @@
                 "open_issues": 8,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3824,
+                "stars": 3825,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -535,8 +535,8 @@
                 "id": 206987038,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:43:04Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-18T13:40:32Z",
+                "open_issues": 11,
                 "owner": "biowasm",
                 "repo": "biowasm",
                 "stars": 277,
@@ -666,11 +666,11 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T23:28:43Z",
-                "open_issues": 390,
+                "last_commit": "2026-10-18T19:54:45Z",
+                "open_issues": 391,
                 "owner": "vgteam",
                 "repo": "vg",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "dna",
                   "genome-graph",
@@ -799,7 +799,7 @@
                 "open_issues": 44,
                 "owner": "wengong-jin",
                 "repo": "hgraph2graph",
-                "stars": 444,
+                "stars": 445,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -865,7 +865,7 @@
                 "open_issues": 15,
                 "owner": "DSPsleeporg",
                 "repo": "smiles-transformer",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "cheminformatics",
                   "chemistry",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-18T07:02:50Z",
-            "open_issues": 2972,
+            "last_commit": "2026-10-19T09:10:17Z",
+            "open_issues": 2978,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 40109,
+            "stars": 40119,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T08:41:15Z",
-            "open_issues": 2572,
+            "last_commit": "2026-10-19T09:41:31Z",
+            "open_issues": 2579,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36461,
+            "stars": 36463,
             "topics": [
               "jax"
             ]
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T08:41:15Z",
-                "open_issues": 2572,
+                "last_commit": "2026-10-19T09:41:31Z",
+                "open_issues": 2579,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36461,
+                "stars": 36463,
                 "topics": [
                   "jax"
                 ]
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:46:42.650Z",
+    "last_updated": "2026-10-19T09:47:40.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
