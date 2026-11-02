@@ -143,7 +143,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15262,
+                        "stars": 15266,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -279,7 +279,7 @@
                 "open_issues": 26,
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 1010,
+                "stars": 1013,
                 "topics": [
                   "cheminformatics",
                   "computational-chemistry",
@@ -535,8 +535,8 @@
                 "id": 206987038,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-01T10:29:03Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-02T12:00:40Z",
+                "open_issues": 5,
                 "owner": "biowasm",
                 "repo": "biowasm",
                 "stars": 279,
@@ -649,7 +649,7 @@
                 "open_issues": 1,
                 "owner": "jltsiren",
                 "repo": "gbwt-rs",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -697,7 +697,7 @@
                 "open_issues": 33,
                 "owner": "CIDARLAB",
                 "repo": "Cello-v2",
-                "stars": 74,
+                "stars": 75,
                 "topics": [
                   "bio-design-automation",
                   "cello",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-01T09:19:27Z",
-            "open_issues": 2956,
+            "last_commit": "2026-11-02T11:14:47Z",
+            "open_issues": 2961,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 40245,
+            "stars": 40248,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T09:08:38Z",
+            "last_commit": "2026-11-02T12:02:49Z",
             "open_issues": 2591,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36557,
+            "stars": 36567,
             "topics": [
               "jax"
             ]
@@ -1060,7 +1060,7 @@
             "open_issues": 100,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14327,
+            "stars": 14329,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T09:08:38Z",
+                "last_commit": "2026-11-02T12:02:49Z",
                 "open_issues": 2591,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36557,
+                "stars": 36567,
                 "topics": [
                   "jax"
                 ]
@@ -1166,11 +1166,11 @@
                 "id": 50881110,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-08T18:31:27Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-01T15:00:16Z",
+                "open_issues": 5,
                 "owner": "aimacode",
                 "repo": "aima-python",
-                "stars": 8869,
+                "stars": 8870,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:11:57.997Z",
+    "last_updated": "2026-11-02T12:13:59.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
