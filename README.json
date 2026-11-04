@@ -112,10 +112,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-04-22T17:58:21Z",
-                        "open_issues": 309,
+                        "open_issues": 311,
                         "owner": "google-deepmind",
                         "repo": "alphafold",
-                        "stars": 14924,
+                        "stars": 14928,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:31:51.165Z"
@@ -279,7 +279,7 @@
                 "open_issues": 26,
                 "owner": "gnina",
                 "repo": "gnina",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "cheminformatics",
                   "computational-chemistry",
@@ -502,7 +502,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-26T22:57:17Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "google",
                 "repo": "deepvariant",
                 "stars": 3825,
@@ -530,13 +530,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "WebAssembly modules for genomics",
+                "description": "WebAssembly modules for bioinformatics",
                 "homepage": "https://biowasm.com",
                 "id": 206987038,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-03T11:24:21Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-04T09:07:34Z",
+                "open_issues": 2,
                 "owner": "biowasm",
                 "repo": "biowasm",
                 "stars": 279,
@@ -599,10 +599,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-19T22:40:40Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2264,
+                "stars": 2265,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -666,8 +666,8 @@
                 "id": 24727800,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T06:14:03Z",
-                "open_issues": 403,
+                "last_commit": "2026-11-04T03:08:12Z",
+                "open_issues": 402,
                 "owner": "vgteam",
                 "repo": "vg",
                 "stars": 1349,
@@ -697,7 +697,7 @@
                 "open_issues": 33,
                 "owner": "CIDARLAB",
                 "repo": "Cello-v2",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "bio-design-automation",
                   "cello",
@@ -1003,11 +1003,11 @@
             "id": 263727855,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:05:51Z",
-            "open_issues": 2940,
+            "last_commit": "2026-11-04T11:05:31Z",
+            "open_issues": 2945,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 40254,
+            "stars": 40256,
             "topics": [
               "arrow",
               "dataframe",
@@ -1033,11 +1033,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T11:40:30Z",
-            "open_issues": 2585,
+            "last_commit": "2026-11-04T11:50:08Z",
+            "open_issues": 2570,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36568,
+            "stars": 36575,
             "topics": [
               "jax"
             ]
@@ -1060,7 +1060,7 @@
             "open_issues": 100,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14330,
+            "stars": 14331,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -1087,11 +1087,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T11:40:30Z",
-                "open_issues": 2585,
+                "last_commit": "2026-11-04T11:50:08Z",
+                "open_issues": 2570,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36568,
+                "stars": 36575,
                 "topics": [
                   "jax"
                 ]
@@ -1142,7 +1142,7 @@
                 "open_issues": 17,
                 "owner": "jax-md",
                 "repo": "jax-md",
-                "stars": 1470,
+                "stars": 1472,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:51.165Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:49:14.751Z",
+    "last_updated": "2026-11-04T11:59:24.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Structural Bioinformatics is awesome. Throw your textbook in the garbage, light the garbage can on fire, and blend the ashes into your cold brew almond milk latte and read this.",
