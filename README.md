@@ -89,7 +89,7 @@ The protein folding problem consists of three closely related puzzles:
 
 * [:book: Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041641/)
 
-[Gnina](https://github.com/gnina/gnina) ⭐ 1,016 | 🐛 26 | 🌐 C++ | 📅 2026-10-30 - deep learning framework for molecular docking -inside deepchem (/dock/pose\_generation.py)
+[Gnina](https://github.com/gnina/gnina) ⭐ 1,017 | 🐛 26 | 🌐 C++ | 📅 2026-10-30 - deep learning framework for molecular docking -inside deepchem (/dock/pose\_generation.py)
 
 [GOMoDo](https://gomodo.grs.kfa-juelich.de/php/about.php) - GPCR online modeling and docking server
 
@@ -282,7 +282,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 ## Genomics Software
 
-[Deep Variant](https://github.com/google/deepvariant) ⭐ 3,825 | 🐛 7 | 🌐 Python | 📅 2026-10-26 - analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data
+[Deep Variant](https://github.com/google/deepvariant) ⭐ 3,827 | 🐛 7 | 🌐 Python | 📅 2026-10-26 - analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data
 
 [NVIDIA Clara Parabricks Pipelines](https://docs.nvidia.com/clara/parabricks/v3.5/text/software_overview.html) - perform secondary analysis of next generation sequencing (NGS) DNA and RNA data, blazing fast speeds and low cost. Can analyze whole human genomes in about 45 minutes. Includes Deep Variant.
 
@@ -298,7 +298,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 * [gBWT in Rust](https://github.com/jltsiren/gbwt-rs) ⭐ 48 | 🐛 1 | 🌐 Rust | 📅 2026-09-14
 
-[VG](https://github.com/vgteam/vg) ⭐ 1,349 | 🐛 402 | 🌐 C++ | 📅 2026-11-04 - tools for working with genome variation graphs
+[VG](https://github.com/vgteam/vg) ⭐ 1,349 | 🐛 397 | 🌐 C++ | 📅 2026-11-05 - tools for working with genome variation graphs
 
 [Cello](https://github.com/CIDARLAB/Cello-v2) ⭐ 76 | 🐛 33 | 🌐 Java | 📅 2022-05-16 - Genetic Circuit Design
 
@@ -328,7 +328,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 (2021) [Deep molecular dreaming: inverse machine learning for de-novo molecular design and interpretability with surjective representations](https://iopscience.iop.org/article/10.1088/2632-2153/ac09d6)
 
-(2021) [JANUS: Parallel Tempered Genetic Algorithm Guided by Deep Neural Networks for Inverse Molecular Design](https://arxiv.org/pdf/2106.04011.pdf) --> :computer: [code](https://github.com/aspuru-guzik-group/JANUS) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2022-07-27
+(2021) [JANUS: Parallel Tempered Genetic Algorithm Guided by Deep Neural Networks for Inverse Molecular Design](https://arxiv.org/pdf/2106.04011.pdf) --> :computer: [code](https://github.com/aspuru-guzik-group/JANUS) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2022-07-27
 
 (2021) [Transformer neural network for protein-specific de novo drug generation as a machine translation problem](https://www.nature.com/articles/s41598-020-79682-4)
 
@@ -378,7 +378,7 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 (2019) [SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery](https://arxiv.org/pdf/1911.04738.pdf) --> [code](https://github.com/DSPsleeporg/smiles-transformer) ⭐ 359 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2022-12-22 --> :computer: [code](https://github.com/DSPsleeporg/smiles-transformer) ⭐ 359 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2022-12-22
 
-(2019) [Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective](https://gitlab.com/7tm/smel/-/blob/master/papers/molecular_property_prediction.pdf) --> :computer: [code](https://github.com/awslabs/dgl-lifesci/blob/master/python/dgllife/model/model_zoo/mgcn_predictor.py) ⭐ 812 | 🐛 32 | 🌐 Python | 📅 2023-11-01 --> :computer: [more code](https://github.com/tencent-alchemy/Alchemy) ⭐ 115 | 🐛 6 | 🌐 Python | 📅 2024-07-25
+(2019) [Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective](https://gitlab.com/7tm/smel/-/blob/master/papers/molecular_property_prediction.pdf) --> :computer: [code](https://github.com/awslabs/dgl-lifesci/blob/master/python/dgllife/model/model_zoo/mgcn_predictor.py) ⭐ 811 | 🐛 32 | 🌐 Python | 📅 2023-11-01 --> :computer: [more code](https://github.com/tencent-alchemy/Alchemy) ⭐ 115 | 🐛 6 | 🌐 Python | 📅 2024-07-25
 
 (2019) [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://gitlab.com/7tm/smel/-/blob/master/papers/smiles_bert_2019.pdf)
 
@@ -394,9 +394,9 @@ Genomics begins with the discoveries of [Gregor Mendel](https://www.britannica.c
 
 (2018) [Derivative-free neural network for optimizing the scoring functions associated with dynamic programming of pairwise-profile alignment](https://doi.org/10.1186/s13015-018-0123-6)
 
-(2018) [(MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823) --> :computer: [code](https://github.com/molecularsets/moses) ⭐ 997 | 🐛 31 | 🌐 Python | 📅 2024-07-08
+(2018) [(MOSES): A Benchmarking Platform for Molecular Generation Models](https://arxiv.org/abs/1811.12823) --> :computer: [code](https://github.com/molecularsets/moses) ⭐ 996 | 🐛 31 | 🌐 Python | 📅 2024-07-08
 
-(2018) [DeepSMILES: An adaptation of SMILES for use in machine-learning of chemical structures](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c73ed6567dfe7e5fec388d/original/deep-smiles-an-adaptation-of-smiles-for-use-in-machine-learning-of-chemical-structures.pdf) --> :computer: [code](https://github.com/baoilleach/deepsmiles) ⭐ 146 | 🐛 6 | 🌐 Python | 📅 2021-05-24
+(2018) [DeepSMILES: An adaptation of SMILES for use in machine-learning of chemical structures](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c73ed6567dfe7e5fec388d/original/deep-smiles-an-adaptation-of-smiles-for-use-in-machine-learning-of-chemical-structures.pdf) --> :computer: [code](https://github.com/baoilleach/deepsmiles) ⭐ 145 | 🐛 6 | 🌐 Python | 📅 2021-05-24
 
 (2017) [Protein-Ligand Scoring with CNN](https://pubs.acs.org/doi/10.1021/acs.jcim.6b00740)
 
@@ -481,9 +481,9 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 # Important Technology in the Future of Structural BioInformatics
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 40,256 | 🐛 2,945 | 🌐 Rust | 📅 2026-11-04 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,275 | 🐛 2,294 | 🌐 C++ | 📅 2026-11-04 only Rusty.
-* [Jax](https://github.com/google/jax) ⭐ 36,575 | 🐛 2,570 | 🌐 Python | 📅 2026-11-04 - the future? of domain specific ML compiling?
-* [Annoy](https://github.com/spotify/annoy) ⭐ 14,331 | 🐛 100 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
+* [Polars](https://github.com/pola-rs/polars) ⭐ 40,262 | 🐛 2,938 | 🌐 Rust | 📅 2026-11-05 - everyone learns the hard way that Pandas doesn't cut it in the real world. Its like [Arrow](https://github.com/apache/arrow) ⭐ 17,274 | 🐛 2,293 | 🌐 C++ | 📅 2026-11-05 only Rusty.
+* [Jax](https://github.com/google/jax) ⭐ 36,579 | 🐛 2,581 | 🌐 Python | 📅 2026-11-05 - the future? of domain specific ML compiling?
+* [Annoy](https://github.com/spotify/annoy) ⭐ 14,332 | 🐛 100 | 🌐 C++ | 📅 2025-10-29 - the standard in production nearest neighbor
 * [gRPC](https://grpc.io/) - connect your devices binary like
 * [Kubernetes](https://kubernetes.io/) - make all your informatics container orchestration declarative
 * [ONNX](https://onnx.ai/) - make all your models interoperable
@@ -539,7 +539,7 @@ def softmax_cross_entropy(logits, labels):
   
 ```
 
-If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,575 | 🐛 2,570 | 🌐 Python | 📅 2026-11-04 AF2's implemenation would not mean much to you.
+If you didn't know jax's [nn.logsoftmax](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/nn/functions.py#L264) ⭐ 36,579 | 🐛 2,581 | 🌐 Python | 📅 2026-11-05 AF2's implemenation would not mean much to you.
 
 So going down the rabbit hole in Jax's nn we have the softmax function:
 
@@ -560,7 +560,7 @@ and an array is returned.
 
 Inside this function we go further down the lane to:
 
-* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,575 | 🐛 2,570 | 🌐 Python | 📅 2026-11-04 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
+* [`lax.stop_gradient`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/lax/lax.py#L1661) ⭐ 36,579 | 🐛 2,581 | 🌐 Python | 📅 2026-11-05 - is the identity function, that is, it returns argument `x` unchanged. However, `stop_gradient` prevents the flow of
   gradients during forward or reverse-mode automatic differentiation.
 
 ```python
@@ -574,7 +574,7 @@ def stop_gradient(x):
   return tree_map(stop, x)
 ```
 
-This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,575 | 🐛 2,570 | 🌐 Python | 📅 2026-11-04
+This in turn relies upon [`tree_map`](https://github.com/google/jax/blob/890a41f7191fa468e2f638ba4efb9e32ad26adaa/jax/_src/tree_util.py#L144) ⭐ 36,579 | 🐛 2,581 | 🌐 Python | 📅 2026-11-05
 
 ```python
 def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
@@ -593,7 +593,7 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 [Gans in Jax](https://github.com/lweitkamp/GANs-JAX) ⭐ 34 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-04-29
 
-[Jax MD](https://github.com/google/jax-md) ⭐ 1,472 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-26
+[Jax MD](https://github.com/google/jax-md) ⭐ 1,473 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-26
 
 ## Other Free Books You Should Read Instead of This Repo
 
@@ -613,4 +613,4 @@ def tree_map(f: Callable[..., Any], tree: Any, *rest: Any,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
